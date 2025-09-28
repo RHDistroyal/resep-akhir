@@ -46,7 +46,8 @@
       ],
       "time": "30 menit",
       "category": "Makanan Utama",
-      "id": "1"
+      "id": "1",
+      "isBookmarked": false
     },
     {
       "name": "Samosa",
@@ -87,33 +88,7 @@
       ],
       "time": "40 menit",
       "category": "Makanan Pembuka",
-      "id": "8cd2"
-    },
-    {
-      "name": "Kohakutou",
-      "image": "https://zhangcatherine.com/wp-content/uploads/2024/06/DSC03660.jpg",
-      "note": [
-        "Dimulai pada periode Edo kira-kira sekitar 200 tahun yang lalu ketika awalnya disajikan sebagai sajian manis pendamping teh"
-      ],
-      "ingredients": [
-        "1 bks agar2 cokelat (sesuai selera)",
-        "200 gr gula pasir",
-        "200 ml air"
-      ],
-      "steps": [
-        "Campur air dan gula, aduk rata",
-        "Masukkan agar2, lalu aduk2 hingga tercampur rata dan gula larut",
-        "Masak hingga mendidih dan air berkurang, cairan menjadi agak lebih kental",
-        "Angkat lalu saring",
-        "Tuang ke dalam cetakan, dinginkan hingga set",
-        "Potong2 sesuai selera, bisa menyerupai kristal dan sebagainya",
-        "Jemur hingga benar2 kering sekitar 5-7 hari",
-        "Bagian luar kering, namun bagian dalamnya masih lembut",
-        "Siap dinikmati"
-      ],
-      "time": "15 Hari",
-      "category": "Makanan Penutup",
-      "id": "863a",
+      "id": "8cd2",
       "isBookmarked": false
     },
     {
@@ -163,51 +138,6 @@
       "time": "55 Menit",
       "category": "Makanan Pembuka",
       "id": "3310"
-    },
-    {
-      "name": "Daifuku Mochi",
-      "image": "https://cdn0-production-images-kly.akamaized.net/kNud89uWvROsqkkTUVYZ9BqN-Kc=/1x77:1000x640/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4419017/original/010936200_1683522187-shutterstock_2238139593.jpg",
-      "note": [
-        "dapat ditelusuri kembali ke periode Edo (1603-1868) di Jepan ketika masyarakat mulai mengembangkan berbagai jenis kue dari bahan-bahan lokal seperti beras ketan."
-      ],
-      "ingredients": [
-        "250 gr Tepung Ketan Putih",
-        "25 gr Tepung Maizena",
-        "75 gr Gula Pasir",
-        "1/4 sdt garam",
-        "2 sdm minyak goreng",
-        "1/2 sdt vanili cair",
-        "300 ml susu cair full cream",
-        "50 gr whipping cream Bubuk",
-        "100 ml air dingin",
-        "20 bh strawberry ukuran sedang",
-        "Secukupnya buah mangga matang",
-        "40 gr Tepung Maizena",
-        "1 lembar daun pandan potong potong"
-      ],
-      "steps": [
-        "Membuat kulit mochi : Dalam wadah masukkan tepung ketan putih, tepung maizena, gula pasir dan garam aduk rata",
-        "Masukkan susu cair bertahap sambil di aduk hingga semua susu cair tercampur rata",
-        "Setelah adonan halus masukkan vanili cair dan minyak goreng",
-        "Aduk kembali hingga tercampur rata",
-        "Saring adonan",
-        "Bagi 2 lalu beri masing2 bagian dgn pewarna makanan",
-        "Kukus sekitar 25-30 menit, alasi tutup panci dgn serbet bersih supaya uap air tidak menetes di adonan",
-        "Sambil menunggu kulit mochi matang, kita bikin isian mochi",
-        "Dalam wadah masukkan whiiping cream Bubuk dan air es, kemudian aduk hingga tercampur rata setelah itu mixer hingga mengental dan kokoh lalu masukkan pipping bag, simpan di lemari es sampai saat akan di gunakan",
-        "Membuat bahan Baluran mochi : sangrai tepung maizena dan daun pandan dgn api kecil hingga ringan dan daun pandan mengering kemudian sisihkan",
-        "Setelah kulit mochi matang segera uleni saat masih panas dgn menggunakan scraper sampai adonan mudah di bentuk",
-        "Bagi adonan masing2 warna menjadi 12 bagian",
-        "Membuat mochi isi strawberry : Pipihkan adonan menggunakan rolling pin, beri isian whipping cream dan buah strawberry lalu tutup whipping cream lagi dan bentuk bulat bulat gulirkan di tepung maizena sangrai",
-        "Membuat mochi isi mangga : Ambil 1 potongan adonan, lalu beri whipping cream kemudian beri 1 potong mangga dan tutup kembali dgn whipping cream, bentuk bulat",
-        "Gulirkan ke tepung maizena sangrai",
-        "Lakukan hingga semua adonan terbalut maizena sangrai",
-        "Supaya balurannya tidak tebal bisa di kuas supaya rapi",
-        "Daifuku Mochi siap di sajikan"
-      ],
-      "time": "2 Jam",
-      "category": "Makanan Penutup",
-      "id": "99a2"
     },
     {
       "id": "9cc4",
@@ -481,7 +411,7 @@
     },
     {
       "name": "Eungkot Keumamah",
-      "image": "https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/Ungkot-Kemamah-2.jpg",
+      "image": "https://images.genpi.co/uploads/news/normal/2019/03/02/fe3ad6580dc6ce6c1e7395975ef828b2.jpg",
       "note": [
         "Para pejuang Aceh mengolah ikan kayu untuk dijadikan bahan lauk-pauk yang bisa tahan lama. Inilah awal mula munculnya eungkot keumamah. Karena beratnya perjuangan yang dilakukan serta harus berpindah-pindah di hutan. makan pejuang Aceh menjadikan eungkot keumamah sebagai salah satu cadangan makanan yang praktis."
       ],
@@ -1008,9 +938,8 @@
       "category": "Makanan Pembuka"
     },
     {
-      "id": "e23f",
       "name": "Batagor",
-      "image": "https://img.kurio.network/7m7-kJRTloVaa9XnAyhFGJ-EHgI=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/22/02/21/2e569b67-5270-4b7a-9a45-85e67ac97cc0.jpe",
+      "image": "https://asset.kompas.com/crops/sgcQZ8IQi_iPribfxSrstNii5-4=/0x16:1000x683/1200x800/data/photo/2023/05/02/6450c8bc07190.jpg",
       "note": [
         "batagor pertama kali dibuat oleh seorang penjual bakso tahu atau siomay keliling yang mengolah barang jualannya yang tidak laku."
       ],
@@ -1052,7 +981,8 @@
         "Susun batagor di piring,siram dengan sambal kacang beri jeruk limau"
       ],
       "time": "45 Menit",
-      "category": "Makanan Pembuka"
+      "category": "Makanan Pembuka",
+      "id": "e23f"
     },
     {
       "id": "84fe",
@@ -1090,6 +1020,2106 @@
       ],
       "time": "30 Menit",
       "category": "Makanan Pembuka"
+    },
+    {
+      "name": "Selat Usar",
+      "image": "https://img-global.cpcdn.com/steps/a6e5dfa0d2c6e677/400x400cq80/photo.jpg",
+      "note": [
+        "Selat yang satu ini jelas dipengaruhi citarasa Barat yang terlihat dari penggunaan keju parut. Namanyapun kemungkinan besar diadaptasi dari Huzarensla. Mulai diperkenalkan pada masa pemerintahan Sri Sultan Hamengkubuwono VIII.Artikel ini telah tayang di Kompas.com dengan judul \"Mengenal Hidangan Salad Favorit Para Sultan Keraton Yogyakarta\""
+      ],
+      "ingredients": [
+        "2 lembar Daun Selada potong-potong",
+        "2 buah Tomat Merah (ukuran kecil) potong-potong",
+        "1 buah Timun Baby kupas lalu iris",
+        "1 butir Telur Ayam Rebus potong-potong",
+        "1/2 buah Kentang Kukus potong dadu besar",
+        "Bahan Saus:",
+        "1 butir Kuning Telur Rebus",
+        "1 sdt Cuka",
+        "3/4 sdt Gula Pasir",
+        "1/4 sdt Garam Halus",
+        "1/4 sdt Lada",
+        "1/8 sdt Pala Bubuk",
+        "3 sdt Air Matang",
+        "1/2 sdt Margarin lelehkan"
+      ],
+      "steps": [
+        "Bahan Saus:\nDalam mangkuk, haluskan kuning telur lalu campur dengan semua bahan, aduk rata lalu tes rasa",
+        "Siapkan piring saji, lalu tata semua bahan sayuran dan telur rebus yang telah dipotong",
+        "Tuang bahan saus diatasnya",
+        "Aduk rata dan Selat Usar siap dinikmati"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Pembuka",
+      "id": "1e94"
+    },
+    {
+      "id": "6faa",
+      "name": "Tahu Tek",
+      "image": "https://asset.kompas.com/crops/1QqI84U2pKd0rS6VaO_N2-TPsXM=/175x79:975x613/1200x800/data/photo/2022/05/06/6274a029b12d7.jpg",
+      "note": [
+        "Tahu tek adalah salah satu masakan khas Jawa Timur khususnya di Kota Surabaya. Tahu tek terdiri atas tahu goreng setengah matang dan lontong yang dipotong kecil-kecil dengan alat gunting dan garpu untuk memegang tahu atau lontong telur kentang goreng sedikit taoge dan irisan ketimun dipotong kecil-panjang (seperti acar) lalu setelah disiram dengan saus kacang dengan campuran petis di atasnya ditaburkan kerupuk udang yang bentuknya kecil dengan diameter sekitar 3 cm."
+      ],
+      "ingredients": [
+        "Bahan Utama",
+        "1 buah lontong (diiris jadi dua porsi)",
+        "1 buah tahu putih ukuran besar belah jadi 3",
+        "1 butir telur kocok lepas dan dadar",
+        "25 gr cambah pendek",
+        "4 helai daun seledri",
+        "Bahan Bumbu Kacang",
+        "2 sdm petis",
+        "1/2 sdt bawang putih bubuk",
+        "100 ml air untuk memasak petis",
+        "100 gr kacang tanah goreng",
+        "5 buah cabai merah keriting (resep asli pakai rawit) goreng terlebih dahulu",
+        "1 siung bawang putih goreng terlebih dahulu",
+        "1 sdm gula",
+        "1/4 sdm garam",
+        "Secukupnya air",
+        "Bahan Lain",
+        "Secukupnya Kerupuk bawang",
+        "Secukupnya kecap manis"
+      ],
+      "steps": [
+        "Goreng tahu, kacang tanah dan kerupuk hingga matang Dadar telurnya juga Tiriskan dan sisihkan",
+        "Rebus sebentar cambah pendek dan iris-iris seledrinya Tiriskan dan sisihkan",
+        "Dalam wajan masukkan petis, bawang putih bubuk dan air Kemudian masak hingga mendidih dan petis mengental berbentuk pasta Matikan api dan sisihkan",
+        "Haluskan cabai merah keriting, bawang putih, gula dan garam Setelah halus tambahkan kacang goreng Haluskan kembali",
+        "Tambahkan petis dan air Aduk hingga rata Sesuaikan kekentalan bumbu kacang petisnya",
+        "Setelah semua komponen siap, iris lontong dalam piring Tambahkan cambah pendek, seledri, irisan tahu dan irisan telur dadar",
+        "Siram dengan saus kacang dan tambahkan kecap, jika suka Siap dinikmati"
+      ],
+      "time": "20 Menit",
+      "category": "Makanan Pembuka"
+    },
+    {
+      "name": "Tipat Cantok",
+      "image": "https://image.idntimes.com/post/20210714/tipat-cantok-c3a96b38f24606c0bf6d7e96449b55a5-1e42207bdd8beaea11896f79828a89bc.png",
+      "note": [
+        "Tipat cantok merupakan salah satu makanan khas Denpasar yang terbuat dari sayuran rebus dan ketupat serta disajikan dengan bumbu kacang. Dalam bahasa Bali tipat memiliki pengertian \"ketupat\" dan cantok memiliki pengertian \"diuleg/ dihaluskan dengan cobek\". Sayuran yang digunakan pada umumnya adalah kacang panjang tauge dan kangkung. Makanan ini ikut berperan dalam mengembangkan pariwisata dan perekonomian di Bali."
+      ],
+      "ingredients": [
+        "1 buah ketupat/lontong potong",
+        "1/2 ikat bayam petiki daunnya rebus",
+        "2 buah kacang panjang potong rebus",
+        "Segenggam tauge rendam air panas tiriskan",
+        "2 siung bawang putih",
+        "1 buah cabe rawit/sesuai selera",
+        "Sedikit kencur",
+        "Sedikit terasi goreng",
+        "1 genggam kacang tanah goreng",
+        "secukupnya garam",
+        "1/2 buah jeruk limau",
+        "Sedikit air",
+        "1 butir telur ayam rebus (optional)"
+      ],
+      "steps": [
+        "Uleg kacang tanah Tambahkan bawang putih, cabe, kencur dan terasi",
+        "Uleg lagi Tambahkan garam, perasan jeruk limo Uleg rata lagi Beri sedikit air Aduk rata",
+        "Siapkan sayuran dan tipat/lontong",
+        "Aku pakai lontong Krn gak ada ketupat",
+        "Beri bumbu di atas nya Lalu aduk rata",
+        "Biasanya bagian ini diaduk di atas ulekan/cobek batu gitu",
+        "Tapi ini aku aduk nya di piring",
+        "Bisa ditambah telur rebus"
+      ],
+      "time": "10 Menit",
+      "category": "Makanan Pembuka",
+      "id": "7852"
+    },
+    {
+      "id": "3416",
+      "name": "Ubi Nuabosi Rebus",
+      "image": "https://img-global.cpcdn.com/recipes/d41070bf9763a542/400x400cq80/photo.jpg",
+      "note": [
+        "Ubi Nuabosi ubi rebus khas Nusa Tenggara Timur khususnya dari Ende berasal dari dataran Ndetundora di Pulau Flores. Ubi ini sudah dibudidayakan sejak tahun 1954 oleh warga di empat desa berbeda di dataran tersebut: Ndetundora I Ndetundora II Ndetundora III dan Randotonda. Meskipun dianggap endemik ubi ini sebenarnya berasal dari Brasil dan dibawa ke Nusa Tenggara Timur oleh bangsa Portugis pada abad ke-16."
+      ],
+      "ingredients": [
+        "4 buah ubi nuabosi (singkong)",
+        "Air secukupnya untuk merebus",
+        "Bumbu Halus",
+        "2 siung bawang putih",
+        "1 ruas jari kunyit",
+        "2 sdt ketumbar bubuk",
+        "1 sdt garam"
+      ],
+      "steps": [
+        "Kupas kulit ubi lalu potong2 sesuai selera dan cuci bersih",
+        "Masukkan ubi dalam panci, tuang air secukupnya untuk merebus",
+        "Haluskan bumbu lalu masukkan panci, aduk hingga merata",
+        "Rebus ubi sampai air mendidih dan empuk",
+        "Setelah ubi empuk, matikan api, biarkan panci tetap tertutup selama kurleb 3 menit, kemudian buka dan tiriskan",
+        "Ubi merekah sempurna dan cantik"
+      ],
+      "time": "20 Menit",
+      "category": "Makanan Pembuka"
+    },
+    {
+      "id": "7b84",
+      "name": "Beberuk Terong",
+      "image": "https://i.ytimg.com/vi/9RRZ1_3S4Hc/maxresdefault.jpg",
+      "note": [
+        "Beberuk terong adalah hidangan khas Lombok Nusa Tenggara Barat berupa lalapan terong dan kacang panjang yang disiram sambal tomat pedas. Beberuk terong biasanya disajikan sebagai pelengkap ayam taliwang dan dikenal memiliki rasa pedas manis asam dan segar."
+      ],
+      "ingredients": [
+        "2 batang kacang panjang",
+        "1 buah terong bulat (bisa ungu atau hijau)",
+        "1/2 buah tomat",
+        "1 buah jeruk limau",
+        "1 sdm minyak goreng",
+        "Bumbu halus:",
+        "2 buah cabe rawit merah",
+        "1 buah cabe merah",
+        "2 siung bawang merah",
+        "1 siung bawang putih kecil",
+        "1/2 sdt terasi",
+        "1/2 cm kencur",
+        "Secukupnya garam dan gula"
+      ],
+      "steps": [
+        "Potong terong, kacang panjang dan tomat sesuai selera",
+        "Letakkan terong, kacang panjang dan tomat di atas piring saji",
+        "Campur bumbu halus dengan minyak goreng panas",
+        "Siram di atas sayuran Beri perasan jeruk limau",
+        "Beberuk terong/sambel terong siap disajikan"
+      ],
+      "time": "15 Menit",
+      "category": "Makanan Pembuka"
+    },
+    {
+      "name": "Kue Cara",
+      "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/9/10/16a7c074-fb84-4aa8-846f-6671f6457284.jpg",
+      "note": [
+        "ue Cara juga dikenal sebagai Kue Cara Isi adalah kue tradisional khas Gorontalo Sulawesi Utara Indonesia. Kue ini memiliki rasa manis dan sedikit pedas serta tekstur yang lembut karena berbahan dasar ikan tuna."
+      ],
+      "ingredients": [
+        "500 gr Tepung terigu",
+        "150 gr Gula pasir",
+        "1 Kaleng susu kental manis",
+        "1500 Santan encer",
+        "100 gr Margarin (Cairkan lbh dlu)",
+        "5 btr Telur",
+        "1 tetes pewarna kuning",
+        "1 sdt Garam",
+        "Bahan Abon + Bahan yg dihaluskan",
+        "1 ekor Ikan cakalang/tongkol suwir",
+        "3 btr bawang putih haluskan",
+        "8 btr bawang merah haluskan",
+        "10 btr Cabe merah haluskan",
+        "secukupnya Garam",
+        "Bahan Hiasan :",
+        "Daun bawang iris halus"
+      ],
+      "steps": [
+        "Campur semua bahan tepung,gula,telur,garam,margarin,santan (Me : Blender),siapkan ikan suwir",
+        "Saring semua dan siapkan cetakan diolesi dengan minyak dulu,tuang adonan setengah cetakan dan tutup,setelah 3menit masukkin ikan suwir dan daun bawang secara merata",
+        "Tutup cetakan tunggu kue hingga matang angkat dan lakukan hingga adonan habis bisa kasi toping keju,coklat",
+        "Cara buat abon ikan suwir : Rebus semua ikan dan suwir,panaskan wajan masukkan bumbu dihaluskan tadi beri garam rasa sesuai selera aduk2 secara merata sampai ikan matang angkat"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Pembuka",
+      "id": "dd4b"
+    },
+    {
+      "id": "8e37",
+      "name": "Lalampa",
+      "image": "https://www.finnafood.com/blog/wp-content/uploads/2024/07/lalampa-Adalah.jpg",
+      "note": [
+        "Lalampa adalah makanan khas dari Manado Sulawesi Utara. Makanan ini sejenis lemper tetapi menggunakan isian ikan cakalang atau tongkol yang disuwir dan dibumbui dibungkus dengan beras ketan lalu dibakar."
+      ],
+      "ingredients": [
+        "250 gr beras ketan",
+        "350 ml santan",
+        "3 lembar daun pandan simpulkan",
+        "1/2 sdt garam",
+        "secukupnya abon ikan",
+        "secukupnya daun pisang"
+      ],
+      "steps": [
+        "Cuci bersih beras ketan, rendam selama 30 menit, tiriskan setelahnya",
+        "Masak santan, garam dan daun pandan hingga mendidih kemudian masukkan beras ketan aduk hingga santan menyerap habis ke dalam ketan",
+        "Panaskan kukusan, kukus ketan selama 15 menit, angkat",
+        "Ambil 1 sdm penuh ketan, isi dengan abon ikan dan bulatkan bentuk lonjong",
+        "Siapkan daun pisang,bungkus memanjang kemudian semat lidi kedua sisinya, olesi minyak seluruh permukaannya",
+        "Panggang di teflon / bara api lalampa hingga kedua sisi daunnya kecoklatan, angkat",
+        "Sajikan hangat"
+      ],
+      "time": "1 Jam",
+      "category": "Makanan Pembuka"
+    },
+    {
+      "name": "Panada",
+      "image": "https://blog.tokowahab.com/wp-content/uploads/2021/10/Resep-Panada-Ikan-Cakalang-Asap-Pedas-Empuk-Seharian.-Simak-di-Blog.tokowahab.com_.png",
+      "note": [
+        "Kue Panada memiliki akar yang kuat dalam tradisi kuliner masyarakat Minahasa di Sulawesi Utara. Pengaruh dari budaya kolonial khususnya Portugis turut berperan dalam perkembangan kue ini.\nOrang Portugis yang datang ke Indonesia membawa berbagai pengaruh budaya termasuk dalam hal kuliner. Panada diadaptasi dari \"empanada\" makanan khas Spanyol dan Portugis yang juga berupa roti atau kue dengan isian."
+      ],
+      "ingredients": [
+        "Bahan Roti",
+        "200 gr terigu cakra",
+        "100 gr terigu segitiga",
+        "25 gr maizena",
+        "2 sdm gula pasir",
+        "1.5 sdt ragi instan",
+        "1 btr telur",
+        "150 ml susu cair",
+        "25 gr mentega",
+        "1/2 sdt garam",
+        "1/4 sdt kaldu jamur",
+        "Isian",
+        "300 gr daging ayam cincang halus",
+        "1 btr bombay",
+        "3 btr bawang merah",
+        "1 Batang daun bawang cincang halus",
+        "1 sdm Kecap manis saus tiram",
+        "kecap asin",
+        "1 sdt lada putih",
+        "Secukupnya gula dan garam"
+      ],
+      "steps": [
+        "Giling daging ayam menggunakan Chopper lalu sisihkan",
+        "Tumis bawang2an hingga harum, masukkan ayam Aduk hingga ayam berubah warna\nSetelah itu masukkan kecap manis, saus tiram, dan kecap asin",
+        "Tambahkan garam, lada dan gula, masak hingga matang, tes rasa",
+        "Tambahkan larutan maizena, aduk hingga mengental",
+        "Angkat dan biarkan dingin",
+        "Campur tepung terigu, tepung maizena,gula, dan ragi, aduk rata",
+        "Masukkan susu sedikit demi sedikit sambil diuleni",
+        "Tambahkan telur, uleni hingga 1/2 kalis",
+        "Tambahkan garam dan margarin",
+        "Uleni kembali hingga kalis elastis",
+        "Bulatkan adonan, lalu diamkan selama 30 menit",
+        "Kempiskan lalu bagi menjadi 10 bagian, bulatkan",
+        "Ambil 1 bh adonan, pipihkan lalu beri isian",
+        "Rekatkan kedua ujung nya hingga rapat, dan ulir seperti pastel",
+        "Diamkan kembali sekitar 15 menit",
+        "Setelah mengembang, goreng hingga kecokelatan, angkat lalu sisihkan, Siap disajikan"
+      ],
+      "time": "1 Jam 30 Menit",
+      "category": "Makanan Pembuka",
+      "id": "2442"
+    },
+    {
+      "name": "Lapa Lapa",
+      "image": "https://cdn0-production-images-kly.akamaized.net/_PM84_eSydI-KzlMqViZ1cwitS0=/0x0:999x563/469x260/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4701423/original/086305500_1703826571-shutterstock_2365358625.jpg",
+      "note": [
+        "Lapa-lapa adalah makanan khas Sulawesi Tenggara khususnya dari suku Buton dan juga populer di Sulawesi Selatan. Nama \"lapa\" sendiri berasal dari bahasa Wolio yang berarti berlipat-lipat merujuk pada cara pembuatannya yang dilipat. Secara filosofis sebelum dilipat lapa-lapa memiliki ukuran tidak kurang dari satu jengkal yang melambangkan harapan agar yang menyantapnya diberi umur panjang"
+      ],
+      "ingredients": [
+        "600 ml beras ketan",
+        "250 ml santan kental dari 1/2 buah kelapa",
+        "1 sdt garam",
+        "12 lembar janur"
+      ],
+      "steps": [
+        "Kukus beras ketan 10 sampai 15 menit angkat tuangi santan+ garam yg sudah diaduk rata",
+        "Campur hingga santan terserap habis sambil diaduk",
+        "Lalu bungkus dan ikat lapa lapa",
+        "Presto 45 menit dari waktu presto mendesis",
+        "Dinginkan angkat"
+      ],
+      "time": "2 Jam",
+      "category": "Makanan Pembuka",
+      "id": "5a68"
+    },
+    {
+      "id": "7ab6",
+      "name": "Jalangkote",
+      "image": "https://asset-2.tstatic.net/tribunnews/foto/bank/images/apa-itu-jalangkote1.jpg",
+      "note": [
+        "Jalangkote adalah makanan ringan khas Makassar Sulawesi Selatan. Nama \"jalangkote\" berasal dari dua kata dalam bahasa Makassar: \"jalang\" yang berarti jalan dan \"kote\" yang merupakan tiruan bunyi ayam atau teriakan. Penamaan ini mengacu pada cara penjual yang seringkali anak-anak menjajakan jualannya sambil berjalan dan berteriak."
+      ],
+      "ingredients": [
+        "Bahan Isi",
+        "4 Butir telur rebus",
+        "720 gr Ubi jalar yang sudah dikupas",
+        "1 buah wortel ukuran besar",
+        "4 keping mie telur",
+        "5 siung bawang merah",
+        "3 siung bawang",
+        "1 sdt lada bubuk",
+        "2 sdt garam",
+        "1 sdt kaldu jamur",
+        "2 sdm minyak goreng untuk menumis",
+        "1 gelas air/ 200 ml",
+        "Bahan kulit",
+        "500 gr tepung terigu",
+        "100 gr margarin/ minyak goreng/ Mix keduanya",
+        "1 sdt garam",
+        "200 ml air (Sesuaikan tekstur adonan)",
+        "Bahan Saos",
+        "200 ml air",
+        "10 biji cabe rawit (Sesuai selera)",
+        "2 buah cabai besar",
+        "2 siung bawang putih",
+        "1 sdt garam",
+        "1/2 sdm gula pasir",
+        "1 sdm air perasan jeruk nipis/ cuka makan"
+      ],
+      "steps": [
+        "Buat bahan isi: potong dadu kecil ubi dan wortel, cuci bersih dan tiriskan",
+        "Haluskan bawang merah dan bawang putih, kemudian tumis hingga harum, tambahkan lada bubuk, aduk hingga rata",
+        "Tambahkan 1 air, garam dan kaldu",
+        "Masak hingga ubi dan wortel empuk dan air menyusup",
+        "Masukkan mie yang sudah direndam air sampai empuk, aduk hingga benar benar tercampur rata, Angkat dan dinginkan",
+        "Membuat bahan kulit: Dalam wadah campur tepung terigu dan garam, aduk hingga rata",
+        "Panaskan margarin atau minyak hingga betul2 panas lalu siram ke dalam tepung, Aduk hingga rata",
+        "Tambahkan air sedikit2 sambil di uleni, lakukan hingga mendapatkan tekstur yang agak keras lalu istirahatkan adonan sekitar 10 menit",
+        "Bagi adonan kecil2 agar memudahkan menggiling",
+        "Giling adonan dengan ketebalan yang paling tebal, lakukan hingga adonan habis",
+        "Lalu giling lagi dengan ketebalan sedang atau langsung yg tipis (gilingan saya nomor 1 paling tebal dan no 9 paling tipis) gilingan akhir saya pakai nomor 8",
+        "Letakkan adonan di cetakan, isi dengan bahan isi lalu tambahan telur yang sudah di iris sesuai selerah, Lakukan hingga adonan habis",
+        "Panaskan minyak lalu goreng jalangkote hingga kecoklatan, Hasilnya sangat garing",
+        "Membuat saos: blender cabai dan bawang putih hingga halus lalu masak hingga mendidih, tambahkan garam dan gula aduk",
+        "Angkat dan saring lalu tambahkan perasan jeruk nipis",
+        "Siap di hidangkan"
+      ],
+      "time": "2 Jam",
+      "category": "Makanan Pembuka"
+    },
+    {
+      "id": "60d0",
+      "name": "Kohu Kohu",
+      "image": "https://akcdn.detik.net.id/visual/2018/04/14/0c583486-51c8-4773-9f3b-e5910e6c00a1_169.jpeg?w=1200",
+      "note": [
+        "Kohu-kohu adalah hidangan khas Maluku yang mirip dengan urap namun dengan tambahan ikan asap. Hidangan ini biasanya terdiri dari sayuran seperti kacang panjang tauge dan kol yang direbus kemudian dicampur dengan kelapa parut berbumbu dan suwiran ikan asap",
+        "biasanya ikan cakalang atau tongkol. Kohu-kohu sering disajikan sebagai pendamping nasi atau makanan pokok lainnya",
+        "dan bisa juga dinikmati sebagai lauk saat acara adat atau perayaan penting di Maluku."
+      ],
+      "ingredients": [
+        "3 lonjor kc.panjang",
+        "50 g toge",
+        "1 buah timun",
+        "1 sdm air jeruk nipis",
+        "75 g kelapa muda parut",
+        "100 g pindang ikan tongkol",
+        "Bumbu Halus :",
+        "5 buah cabe merah kriting",
+        "3 butir bawang merah",
+        "2 siung bawang putih",
+        "1/2 sdt terasi",
+        "1/2 sdt garam",
+        "1 sdt gula pasir"
+      ],
+      "steps": [
+        "Siapkan semua bahan bahan",
+        "Bersihkan kc",
+        "panjang, toge dan timun",
+        "Lalu dipotong²",
+        "Kukus kelapa muda parut sekitar 10menit, Angkat dan dinginkan",
+        "Goreng Ikan pindang tongkol sebentar saja, angkat dan tiriskan, Lalu suwir²",
+        "Tumis cabe merah, bawang merah dan bawang putih sampai harum dan layu, Angkat dan tiriskan",
+        "Haluskan dengan tambahan garam dan gula pasir, Tambahkan perasan air jeruk nipis",
+        "Campur semua bahan bahan Kohu kohu, aduk rata, Koreksi rasa"
+      ],
+      "time": "50 Menit",
+      "category": "Makanan Pembuka"
+    },
+    {
+      "id": "67de",
+      "name": "Gohu Ikan",
+      "image": "https://asset.kompas.com/crops/fUNrqQY_ABvACl9yoim-ESb6QWo=/0x948:2304x2484/1200x800/data/photo/2020/09/14/5f5eda757474c.jpg",
+      "note": [
+        "Gohu ikan adalah makanan khas Ternate Maluku Utara. Makanan ini berupa ikan mentah biasanya tuna atau cakalan yang dipotong kecil-kecil dan diberi bumbu seperti perasan jeruk garam dan cabai. Gohu ikan sering disebut sebagai sashimi Ternate karena cara penyajiannya yang mirip sashimi Jepang."
+      ],
+      "ingredients": [
+        "1/4 ikan cakalang mentah segar",
+        "Sckpnya garam",
+        "8-10 buah jeruk kunci/lemon cui",
+        "10-15 buah bawang merah iris tipis",
+        "10 buah cabe (atau sesuai selera)",
+        "Segenggam kacang sangrai ulek kasar (saya skip)",
+        "Segenggam kemangi",
+        "6 sdm minyak sayur",
+        "Sckpnya air (jika ingin berkuah)",
+        "Sckpnya penyedap rasa"
+      ],
+      "steps": [
+        "1/4 ikan cakalang mentah segar (cakalang ukuran sedang)",
+        "Buang tulang2 halusnya dan potong dadu",
+        "Cuci bersih dan marinasi dg garam dan jeruk kunci/lemon cui, Sisihkan",
+        "Panaskan minyak, siram ke ikan",
+        "Kalo saya ikannya saya masak sebentar utk memastikan ikannya benar2 masak",
+        "Masukkan irisan bawang merah dan cabe dan air jeruk kunci",
+        "Tambahkan garam dan penyedap rasa",
+        "Terakhir masukkan kemangi",
+        "Tes rasa, jika dirasa masih kurang asam bisa tambahkan perasan jeruk kunci",
+        "Jika ingin gak berkuah bisa tanbahkan sedikit air",
+        "Aduk sebentar, matikan api",
+        "Gohu ikan siap dinikmati dg sagu, pisang atau umbi2an rebus"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Pembuka"
+    },
+    {
+      "id": "7137",
+      "name": "Roti Abon Gulung",
+      "image": "https://cdn0-production-images-kly.akamaized.net/olnE08UpgZYTLxBUwimqRNp16nc=/1x237:1000x800/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4150909/original/066454200_1662615038-shutterstock_2141811047.jpg",
+      "note": [
+        "Roti abon gulung adalah roti gulung yang diisi dengan abon (daging kering yang disuwir dan dibumbui) dan merupakan makanan khas Manokwari Papua Barat. Roti ini cukup populer sebagai oleh-oleh khas Papua terutama di Manokwari dan Sorong. Meskipun ada juga variasi roti abon di daerah lain seperti Solo",
+        "roti abon gulung khas Papua memiliki ciri khas tersendiri dalam hal rasa dan bentuk."
+      ],
+      "ingredients": [
+        "65 gr sourdough discard",
+        "300 gr tepung terigu protein tinggi",
+        "40 gr gula",
+        "10 gr susu bubuk",
+        "1/2 sdt ragi",
+        "1 butir telur",
+        "135-140 gr susu cair",
+        "30 gr mentega",
+        "1/2 sdt garam",
+        "Olesan permukaan adonan roti:",
+        "1 kuning telur",
+        "30 ml susu cair",
+        "Taburan:",
+        "3-5 cabe merah keriting",
+        "potong serong tipis",
+        "1-2 daun bawang bagian hijau",
+        "potong tipis",
+        "Secukupnya biji wijen putih dan hitam",
+        "Filling olesan:",
+        "100 gr mayonaise",
+        "40 gr SKM",
+        "150 gr abon sapi"
+      ],
+      "steps": [
+        "alam satu wadah, campur sourdough discard, tepung terigu, gula, susu bubuk, ragi, telur, aduk rata menggunakan tangan, masukkan susu cair secara bertahap, uleni hingga kalis, Masukkan mentega dan garam, uleni hingga kalis elastis sekitar 15 menit, Bulatkan adonan, taruh di wadah, tutup dengan plastic wrap hingga double volume, sekitar 1 jam",
+        "Kempeskan adonan, bagi menjadi 2 bagian  Bulatkan, tutup dengan plastis wrap, istirahatkan selama 20 menit, Ambil satu bagian adonan, pipihkan menggunakan rolling pin, Taruh di loyang 26X30 cm yang sudah dioles minyak, Tusuk-tusuk permukaan adonan dengan garpu agar tidak menggelembung saat dipanggang, Tutup dengan plastic wrap, diamkan hingga double volume sekitar 1 jam, Lakukan hal yang sama dengan satu bagian adonan roti lainnya",
+        "Setelah satu jam, olesi permukaan adonan roti dengan campuran kuning telur-susu cair, tabur dengan potongan cabe, daun bawang dan biji wijen, Panggang dalam oven dengan suhu 190°C selama 15-17 menit, atau hingga bagian atasnya berwarna coklat keemasan",
+        "Begitu keluar oven, langsung balikkan ke atas serbet atau kertas roti",
+        "Dan gulung dalam keadaan panas agar mudah digulung dan tidak patah, Diamkan beberapa saat hingga hangat, buka gulungan, olesi dengan campuran mayonaise-SKM",
+        "Tabur dengan sedikit abon",
+        "Gulung kembali, biarkan hingga dingin, Potong kedua pinggirnya, lalu potong menjadi 4 bagian sama besar, Beri olesan mayo pada kedua ujung masing-masing roti, Lalu tempelkan ke piring yang berisi abon sambil ditekan-tekan agar abon menempel",
+        "Floss Roll Bread/Roti Abon Gulung siap disajikan dan dinikmati"
+      ],
+      "time": "2 Jam",
+      "category": "Makanan Pembuka"
+    },
+    {
+      "id": "797c",
+      "name": "Kue Lontar",
+      "image": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2022/08/2990DF34-9876-41D8-9E0A-626040259D62.jpeg?tr=f-auto",
+      "note": [
+        "Kue Lontar adalah kue khas Papua yang dipercaya berasal dari pengaruh Hindia Belanda pada tahun 1910. Nama \"Lontar\" sendiri merupakan adaptasi dari bahasa Belanda \"ronde taart\" yang berarti kue bundar yang kemudian diucapkan dengan cara yang lebih mudah oleh masyarakat lokal."
+      ],
+      "ingredients": [
+        "Bahan Kulit :",
+        "150 gr terigu protein sedang",
+        "100 gr margarine (sy pakai royal palmia)",
+        "1 butir kuning telur (sy pakai kuning telur matang)",
+        "Bahan Isi :",
+        "8 butir kuning telur",
+        "1 kaleng skm",
+        "1 kaleng air panas (ukuran kaleng skm)",
+        "1 sdt rhum (bisa di ganti perisa vanilla)",
+        "1/2 sdt garam"
+      ],
+      "steps": [
+        "Campur semua bahan kulit, uleni sebentar hingga rata, dan bisa di pulung",
+        "Siapkan piring lontar (piring khas papua gambar ikan), krn sy tidak punya sy pakai piring tahan panas biasa yg ada di rumah, Bisa juga pakai cetakan pie yg diameter besar, Ratakan adonan ke seluruh bagian piring, Kemudian tusuk² bagian bawahnya",
+        "Campur semua bahan isi, aduk rata, Kemudian saring, Dan tuangkan keatas adonan kulit yg sudah siap tadi",
+        "Beri kerat di sekeliling pinggiran piring dengan menggunakan garpu, Bisa juga pakai penjepit nastar daun",
+        "Panggang dalam oven yg sudah di panaskan sebelumnya",
+        "Panggang suhu 170°C selama ± 20 menit, kemudian turunkan suhu menjadi 160°C, teruskan memanggang lagi selama 40 menit/ hingga isiannya set (tidak cair)",
+        "Setelah matang keluarkan dari oven, Tunggu agak dingin baru di potong"
+      ],
+      "time": "1 Jam 30 Menit",
+      "category": "Makanan Pembuka"
+    },
+    {
+      "id": "5d4e",
+      "name": "Sagu Lempeng",
+      "image": "https://bake.co.id/wp-content/uploads/2023/08/word-image-4733-1-1024x583.png",
+      "note": [
+        "Sagu lempeng adalah makanan khas Indonesia timur khususnya Papua dan Maluku yang terbuat dari sagu. Sagu lempeng diperkirakan berasal dari kebudayaan masyarakat yang menjadikan sagu sebagai sumber karbohidrat utama khususnya di daerah-daerah yang memiliki tanaman sagu berlimpah."
+      ],
+      "ingredients": [
+        "250 gram tepung sagu asli Maluku (kalau bisa sagu basah supaya lebih otentik)",
+        "50 gram kelapa parut kasar sangrai sebentar hingga harum",
+        "Sejumput garam",
+        "Air secukupnya (sekitar 100 ml atau sesuai kebutuhan)",
+        "Bahan tambahan",
+        "Gula pasir secukupnya (jika ingin rasa manis)",
+        "Sedikit mentega atau margarin untuk olesan"
+      ],
+      "steps": [
+        "Dalam mangkuk besar, campurkan tepung sagu dan kelapa parut yang sudah disangrai",
+        "Kelapa parut ini akan menambah aroma gurih alami pada sagu lempeng dan bikin rasa akhirnya lebih enak",
+        "Tambahkan sejumput garam ke dalam campuran sagu dan kelapa parut",
+        "Aduk rata, kemudian tuang air sedikit demi sedikit sambil terus diaduk hingga adonan bisa dipulung",
+        "Ingat, jangan terlalu basah ya! Cukup hingga adonan bisa dipadatkan saat ditekan",
+        "Ambil sedikit adonan dan bentuk bulat pipih atau sesuai selera",
+        "Kamu juga bisa menggunakan cetakan untuk bentuk yang lebih rapi",
+        "Jika suka yang lebih tipis dan renyah, pipihkan adonan hingga benar-benar rata",
+        "Panaskan wajan datar atau teflon di atas api kecil tanpa minyak",
+        "Panggang sagu lempeng satu per satu di atas teflon, tekan sedikit supaya bagian bawahnya renyah",
+        "Jangan lupa dibalik ya, biar kedua sisinya matang merata dan warna kecokelatan",
+        "Setelah sagu lempeng matang, angkat dan olesi sedikit mentega atau margarin di atasnya untuk aroma lebih lezat",
+        "Sagu lempeng siap disajikan!"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Pembuka"
+    },
+    {
+      "name": "Papeda",
+      "image": "https://cdn1-production-images-kly.akamaized.net/VYo2v8fXvwGNOy7RluB7-sPQR30=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3225045/original/030810800_1598943228-PAPEDA.jpg",
+      "note": [
+        "Papeda merupakan makanan khas masyarakat Papua Maluku dan beberapa daerah di Sulawesi. Berbahan dasar sagu makanan papeda bertekstur menyerupai lem atau gel berwarna putih bening."
+      ],
+      "ingredients": [
+        "6 sdm tepung sagu",
+        "500 ml air",
+        "2 siung bawang putih (me: di parut. Biasa ya dihaluskan)",
+        "Secukupnya garam",
+        "gula dan kaldu bubuk"
+      ],
+      "steps": [
+        "Didihkan air bersama parutan bawang putih, gula, garam dan kaldu bubuk dengan 100ml air",
+        "Sisa air yg lain untuk melarutkan sagu",
+        "Jika sudah mendidih, masukkan larutan sagu, aduk cepat sampai tepung berubah menjadi bening",
+        "Angkat, bulat-bulatkan dengan sendok dan garpu",
+        "Enak dinikmati dengan ikan kuah kuning"
+      ],
+      "time": "5 Menit",
+      "category": "Makanan Pembuka",
+      "id": "20f2"
+    },
+    {
+      "name": "Ikan Bakar Manokwari",
+      "image": "https://www.unileverfoodsolutions.co.id/dam/ufs-id/marketo/bango/02_IKAN_BAKAR_MANOKWARI.jpg",
+      "note": [
+        "Ikan Bakar Manokwari adalah hidangan khas Papua khususnya dari daerah Manokwari yang terkenal dengan bumbu khasnya yang kaya rempah. Awalnya ikan bakar ini disiapkan sebagai makanan sehari-hari dengan menggunakan ikan segar dari laut dan bumbu sederhana seperti garam dan jeruk nipis. Seiring waktu pengaruh budaya lain dan ketersediaan bahan-bahan baru membuat bumbu ikan bakar ini berkembang menambahkan rempah-rempah seperti cabai bawang merah dan kemiri."
+      ],
+      "ingredients": [
+        "1 kg g ikan peda",
+        "2 buah jeruk nipis",
+        "1 1/2 sdm garam",
+        "Sambal :",
+        "10 butir bawang merah",
+        "3 buah cabe merah besar",
+        "12 buah cabe rawit merah",
+        "1 sdt garam",
+        "5 sdm air matang"
+      ],
+      "steps": [
+        "Cuci bersih ikan peda, kerat-kerat dagingnya, kemudian kucuri air jeruk nipis dan baluri dengan garam",
+        "Marinasi selama 30 menit",
+        "Bakar ikan di atas bara api hingga matang, Angkat dan sisihkan",
+        "Selanjutnya haluskan bumbu kasar, boleh diuleg atau diblender kasar",
+        "Selanjutnya baluri ikan dengan bumbu kasar, sajikan"
+      ],
+      "time": "1 Jam",
+      "category": "Makanan Pembuka",
+      "id": "54ed"
+    },
+    {
+      "id": "17a9",
+      "name": "Tumis Bunga Pepaya",
+      "image": "https://www.finnafood.com/blog/wp-content/uploads/2024/07/tumis-bunga-pepaya.jpg",
+      "note": [
+        "Tumis bunga pepaya adalah hidangan khas Manado Sulawesi Utara Indonesia. Hidangan ini terkenal karena rasa uniknya yang kaya rempah dan manfaat kesehatannya meskipun bunga pepaya sendiri memiliki rasa pahit alami."
+      ],
+      "ingredients": [
+        "250 gr bunga pepaya",
+        "50 gr ebi(digoreng kering)",
+        "1 sdt asam jawa",
+        "4 siung bawang putih",
+        "4 siung bawang merah",
+        "sesuai selera Cabe",
+        "secukupnya Air",
+        "3 sdm minyak goreng",
+        "Gula",
+        "Garam",
+        "Penyedap"
+      ],
+      "steps": [
+        "Bersihkan bunga, Pepaya dengan air hingga bersih",
+        "Didihkan air dan asam jawa, Setelah mendidih masukkan bunga pepaya, Tunggu sampai layu kurleb 7-10 mnt, Tiriskan, Bunga pepaya siap dimasak",
+        "Siapkan bumbu",
+        "Iris2 bumbu, Kemudian sangrai dengan sedikit minyak, Apabila sdh harum dan layu masukkan bunga pepaya, Tambahkan sedikit air kemudian beri seasoning, gula, garam",
+        "Tes rasa apabila sdh enak tutup sebentar agar bumbu merasuk, masukkan udang ebi yg sudah digoreng, Aduk2 rata",
+        "Oseng bunga pepaya siap dihidangkan"
+      ],
+      "time": "1 Jam",
+      "category": "Makanan Pembuka"
+    },
+    {
+      "id": "8a63",
+      "name": "Kue Bingkang",
+      "image": "https://image.idntimes.com/post/20231023/ins-saver-576767388-253e43ae6a3eeff5a810ee9c4777977b.jpg",
+      "note": [
+        "Kue bingkang juga dikenal sebagai bingka adalah kue basah tradisional yang berasal dari Kalimantan Selatan khususnya Banjarmasin. Kue ini terkenal dengan rasa manis dan legit serta teksturnya yang lembut."
+      ],
+      "ingredients": [
+        "1 kg singkong",
+        "2 butir telur",
+        "65 gr mentega",
+        "350 ml santan kental",
+        "300 ml air",
+        "300 gr gula pasir(sesuai selera)",
+        "3/4 sdt vanili",
+        "Garam secukup nya",
+        "8 siung bawang merah iris tipis dan goreng (untuk taburan)"
+      ],
+      "steps": [
+        "Kupas singkong dan parut(saya:haluskan pake chopeer)",
+        "Kocok lepas telur, lalu tambahkan santan dan vanili bubuk, Aduk hingga rata, sisihkan",
+        "Rebus air dan gula pasir hingga mendidih, tambahkan mentega dan masak hingga meleleh",
+        "Tuang rebusan air kedalam parutan singkong, aduk rata hingga terlihat sedikit mengental",
+        "Setelah adonan agak dingin, tambahkan campuran telur santan dan aduk hingga rata",
+        "Tuang dalam loyang kotak dan taburi bawang goreng di atasnya",
+        "Panggang dioven dengan suhu 180-200 derajat selama 60 menit (sesuaikan oven masing -masing)",
+        "Siap dihidangkan dan dinikmati dengan segelas teh"
+      ],
+      "time": "1 Jam",
+      "category": "Makanan Penutup"
+    },
+    {
+      "name": "Bika Ambon",
+      "image": "https://pariwisatasumut.com/assets/images/news/bika-ambon-oleh%E2%80%93oleh-khas-dari-medan.jpg",
+      "note": [
+        "Bika Ambon meskipun bernama demikian adalah kue khas Meda Sumatera Utara bukan dari Ambon. Asal usul namanya memiliki beberapa versi cerita. Ada yang mengatakan bahwa nama tersebut berasal dari lokasi pertama kue ini dijual yaitu di simpang Jalan Ambon Sei Kera Medan. Versi lain menyebutkan bahwa \"ambon\" adalah singkatan dari \"Amplas-Kebon\" merujuk pada daerah Amplas yang memiliki kebun dan pabrik. Ada juga yang meyakini bahwa nama tersebut berasal dari bahasa Medan di mana \"ambon\" berarti lembut sehingga Bika Ambon berarti kue bika yang lembut."
+      ],
+      "ingredients": [
+        "Bahan A :",
+        "1 bungkus segitiga santan ROSE BRAND tambah air hingga 350 ml",
+        "1/3 sdt garam",
+        "1 lembar daun pandan",
+        "3 lembar daun jeruk",
+        "1 batang serai",
+        "1/2 sdt kunyit bubuk",
+        "(3 bahan terakhir kutambahkan karena ingin rasa bika ambon yang original)",
+        "Bahan B :",
+        "180 g gula pasir ROSE BRAND",
+        "3 butir telur",
+        "1 sachet SKM putih",
+        "Bahan C :",
+        "150 g tapioka ROSE BRAND",
+        "70 g tepung terigu",
+        "1/2 sdt ragi instan",
+        "Bahan D :",
+        "60 g margarin ROSE BRAND lelehkan",
+        "Bahan tambahan :",
+        "Secukupnya pasta pandan"
+      ],
+      "steps": [
+        "Siapkan bahan, Rebus bahan A hingga mendidih (selama merebus harus terus diaduk agar santan tidak pecah) biarkan hingga hangat",
+        "Kocok lepas bahan B hingga gula pasir larut, tambahkan SKM, aduk hingga rata, sisihkan",
+        "Siapkan bahan C, tambahkan bahan A kedalamnya, aduk rata, kemudian tambahkan pula bahan B kecampuran A + C, aduk hingga rata",
+        "Masukkan margarin ROSE BRAND leleh, aduk dengan balon whisk hingga benar-benar rata dan tidak bergerindil (saring bila perlu)",
+        "Bagi adonan menjadi 2 bagian, 1 bagian tambahkan dengan pasta pandan, aduk rata, Diamkan minimal 1 jam (kudiamkan hampir 2 jam)",
+        "Panaskan cetakan, oles tipis dengan margarin, tuang adonan dalam cetakan (jangan terlalu penuh), tunggu hingga permukaan berpori, lalu tutup, masak hingga matang, Angkat dan hidangkan"
+      ],
+      "time": "1 Jam 50 Menit",
+      "category": "Makanan Penutup",
+      "id": "e63a"
+    },
+    {
+      "id": "1b90",
+      "name": "Kue Pare",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/09/25/resep-kue-pare-khas-banjarmasin.jpeg?w=1200",
+      "note": [
+        "Kue Pare dari Banjarmasin (disebut juga Pepare atau Papari) dan Kue Pare dari Pasaman. Sumatera Barat. Keduanya dinamakan demikian karena bentuknya yang mirip sayur pare namun memiliki rasa manis legit."
+      ],
+      "ingredients": [
+        "Bahan kulit:",
+        "275 gr tepung ketan Rose Brand",
+        "50 ml air jus pandan",
+        "150-200 ml santan Rose Brand kekentalan sedang",
+        "3 gr garam",
+        "Secukupnya daun pisang",
+        "Bahan unti kelapa:",
+        "150 gr kelapa parut",
+        "100 gr gula merah sisir halus",
+        "50 ml air",
+        "1 lbr daun pandan",
+        "3 gr garam"
+      ],
+      "steps": [
+        "Unti kelapa:Campurkan semua bahan unti kelapa,masak hingga gula larut dan unti kelapa kesat Sisihkan",
+        "Kulit:Campurkan santan dan garam,didihkan lalu biarkan hangat",
+        "Campur semua bahan kulit,lalu tuang santan perlahan sampai adonan bisa dipulung",
+        "Bagi adonan masing-masing 40 gram",
+        "Ambil satu adonan,pipihkan dan beri isian kemudia bentuk lonjong dan buat motif pare atau sesuai selera",
+        "Letakkan kue diatas daun pisang yang sudah diolesi sedikit minyak",
+        "Panaskan pengukus,kukus adonan selama 15 menit dan setiap 2-3 menit buka tutup pengukus agar adonan tidak membesar",
+        "Keluarkan kue dari pengukus,biarkan hangat dan olesi permukaan kue dengan minyak,sajikan"
+      ],
+      "time": "1 Jam",
+      "category": "Makanan Penutup"
+    },
+    {
+      "id": "caa8",
+      "name": "Sarikayo",
+      "image": "https://imgx.sonora.id/crop/0x0:0x0/x/photo/2022/07/26/62de4a985b884jpg-20220726022239.jpg",
+      "note": [
+        "tradisi budaya Bima yang berkaitan dengan sumpah kesetiaan pemimpin dan makanan khas Sumatera Barat yang merupakan kue ketan berlapis dengan srikaya"
+      ],
+      "ingredients": [
+        "5 butir telur bebek",
+        "200 gram gula aren",
+        "4 lembar daun pandan",
+        "1/2 sdt bubuk kayu manis",
+        "1/3 sdt garam",
+        "250 ml santan kental"
+      ],
+      "steps": [
+        "Sisir gula aren terlebih dahulu, lalu sisihkan",
+        "Campurkan telur bebek, gula aren, garam, bubuk kayu manis dan daun pandan",
+        "Mixer hingga tercampur rata dan gula arenya larut",
+        "Setelah itu, tambahkan santan dan mixer sebentar hingga tercampur rata",
+        "Saring adonan dan tuang ke dalam twinwall, lalu di atasnya beri potongan daun pandan",
+        "Kukus selama kurang lebih 30 menit, atau hingga padat",
+        "Sarikayo khas Minang siap di nikmati"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Penutup"
+    },
+    {
+      "name": "Kue Bay Tat",
+      "image": "https://cdn.rri.co.id/berita/Bengkulu/o/1717565308992-051244000_1632287747-shutterstock_1750080818/v3irt6cvea2sllp.jpeg",
+      "note": [
+        "dulunya merupakan hidangan istimewa untuk raja dan bangsawan Bengkulu namun kini menjadi makanan populer dan oleh-oleh khas daerah tersebut"
+      ],
+      "ingredients": [
+        "1/2 kg santan kental (beli dipasa) / santan dri 2 butir kelapa perasan yg pertama",
+        "1/2 kg gula pasir",
+        "750 gr terigu",
+        "2 butir telur",
+        "1/2 sdt BP",
+        "1/2 sdt soda kue",
+        "1/4 sdt garam",
+        "secukupnya Selai nanas asli"
+      ],
+      "steps": [
+        "Masak santan dan gula pasir hingga mendidih Lalu dinginkan",
+        "Kocok telur hingga rata aja Masukkan santan Lalu tambahkan terigu dikit demisedikit + BP dan soda + garam Hingga tercampur rata dan tidak ada yg bergerindil (bisa menggunakan mixer agar lebih cepat ya)",
+        "Bila sudah tercapur rata Diamkan adonan minimal 3 jam dan boleh semalaman / 12 jam ya",
+        "Bila sudah semalaman\nMasukkan adonan ke dalam loyang yg sudah di olesi carlo (700 gr / loyang) lalu beri toping selai nanas Lalu buat motif nya ya (masukkan adonan tat le dalam plastik Lobangi ujung plastik untuk membuat motif ya)",
+        "Bila selesai Kue siap di panggang",
+        "Seblumnya oven aidah dipanasi terlebih dahulu ya Panggang +- sekitar 20 - 30 menit Hiingga warna kecoklatan ya"
+      ],
+      "time": "3 Jam",
+      "category": "Makanan Penutup",
+      "id": "23a1"
+    },
+    {
+      "name": "Bolu Kemojo",
+      "image": "https://image.idn.media/post/20220530/38896294-618777985184213-9169290525923082240-n2-41de55f2c34bd9d1bd2b234d79dab910-3710c81bde656891e2144d6e45443492.jpg",
+      "note": [
+        "kue tradisional masyarakat Melayu Riau yang namanya berasal dari bentuk loyang cetakannya yang menyerupai bunga kamboja (kemboja/kemojo). Kue ini awalnya eksklusif untuk kalangan bangsawan atau acara adat namun kini populer dan menjadi oleh-oleh khas Riau serta daerah Melayu lainnya. Bolu ini memiliki ciri khas tekstur padat tapi lembut rasa manis dan aroma pandan yang khas sering disajikan pada acara pernikahan hari raya dan acara keluarga."
+      ],
+      "ingredients": [
+        "20 lembar daun pandan + air 500 ml (blender)",
+        "500 gr Terigu Segitiga biru (opsional)",
+        "1 3/4 gelas gula pasir",
+        "1 L (air santan + air pandan)",
+        "1/4 garam",
+        "75 gr mentega cair",
+        "2 vanili",
+        "4 telur (suhu ruang)"
+      ],
+      "steps": [
+        "Blender 500 ml air + daun pandan",
+        "Air santan 500 ml",
+        "Kocok telur + vanili + garam + gula sampai larut",
+        "Masukkan terigu (perlahan), mentega cair, air santan dan air pandan (jumlah 1 L)",
+        "Panggang selama 45 menit",
+        "Selamat menikmati"
+      ],
+      "time": "45 Menit",
+      "category": "Makanan Penutup",
+      "id": "1444"
+    },
+    {
+      "id": "9da0",
+      "name": "Tepung Gomak",
+      "image": "https://asset-2.tstatic.net/jogja/foto/bank/images/Tepung-Gomak-makanan-tradisonal-Melayu-di-Kepri.jpg",
+      "note": [
+        "dari daerah Melayu khususnya populer di Kepulauan Riau dan Malaysia (Johor Kelantan Terengganu) dinamakan demikian karena proses menaburkan atau \"membedaki\" kue yang kenyal dengan tepung kacang hijau yang telah dihaluskan"
+      ],
+      "ingredients": [
+        "200 gr Tepung ketan",
+        "1/4 sdt Garam halus",
+        "15 gr Mentega /margarin",
+        "130-150 Air panas",
+        "Bahan isian :",
+        "Secukupnya Unti kelapa",
+        "Unti Kelapa Simple",
+        "Bahan Pelapis :",
+        "150 gr Kacang hijau (sangrai haluskan ayak)"
+      ],
+      "steps": [
+        "Campur semua bahan, uleni hingga kalis",
+        "Ambil sesendok adonan, pipihkan, beri isian unti kelapa, tutup, bulatkan, kemudian pipihkan",
+        "Didihkan air, rebus adonan hingga mengapung",
+        "Angkat, tiriskan",
+        "Gulingkan ke tepung kacang hijau, hingga tertutup rata",
+        "Tepung gomak siap disajikan"
+      ],
+      "time": "45 Menit",
+      "category": "Makanan Penutup"
+    },
+    {
+      "name": "Kue Padamaran",
+      "image": "https://cdn0-production-images-kly.akamaized.net/vty81G0Kp5-t3v5_hWKWfCrA9wk=/0x234:4928x3011/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3582914/original/055065400_1632546480-shutterstock_1981204427.jpg",
+      "note": [
+        "jajanan basah khas Jambi yang telah ada sejak lama dan pada mulanya merupakan hidangan mewah bagi kaum bangsawan di acara-acara penting."
+      ],
+      "ingredients": [
+        "120 gr tepung beras putih",
+        "1/4 sdt garam",
+        "375 ml santan kental",
+        "1 sdt pasta pandan",
+        "Secukupnya gula aren"
+      ],
+      "steps": [
+        "Siapkan tepung dalam bowl\nTambahkan garam\nMasukkan santan sedikit demi sedikit sambil diaduk\nAduk sampai santan habis dan tercampur rata dengan tepung\nPastikan tidak ada yang bergerindil",
+        "Tambahkan pasta pandan secukupnya\nSambil lalu bisa kita siapkan takir dari duan pisang",
+        "Jika takir sudah siap, isi takir dengan serutan gula merah secukupnya\nIsi dengan adonan tepung beras",
+        "Sebelumnya, panaskan air dalam kukusan\nJika sudah air mendidih, tata kue dalam kukusan dan kukus selama\n15 menit atau sampai matang"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Penutup",
+      "id": "1c70"
+    },
+    {
+      "id": "54e2",
+      "name": "Kue Maksuba",
+      "image": "https://cdn0-production-images-kly.akamaized.net/Hovt8VFmPZ2kVy7eHyl5p0Msu8Q=/0x1326:2724x2861/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3910651/original/016477100_1642747798-shutterstock_2082058528.jpg",
+      "note": [
+        "berasal dari daerah Palembang",
+        "Sumatera Selatan dan merupakan warisan Kesultanan Palembang. Kue ini memiliki makna filosofis yang mendalam yaitu sebagai simbol kesabaran",
+        "penghormatan dan kebangsawanan karena proses pembuatannya yang teliti dan bahan-bahannya yang dahulu mahal."
+      ],
+      "ingredients": [
+        "10 butir telur bebek",
+        "300 gr gula",
+        "1 sdt garam halus",
+        "1/2 kaleng susu kental manis",
+        "1 SDM tepung terigu",
+        "1 sdt vanili",
+        "100 gr butter"
+      ],
+      "steps": [
+        "Cairkan butter,dan sisihkan sampai dingin",
+        "Kocok telur,garam halus,gula sampai larut gulanya",
+        "Masukkan vanili,susu kental",
+        "kocok lagi masukkan butter yang telah dilelehkan",
+        "Panaskan oven terlebih dahulu",
+        "masukkan adonan lapisan pertama, dengan api atas dan api bawah",
+        "Setelah itu angkat dan bakar kembali lapisan kedua dengan api atas, begitu seterusnya",
+        "Setelah matang dan kecoklatan angkat dan masukkan butter",
+        "Ulangi terus menerus sampai adonan habis",
+        "Angkat dan sajikan"
+      ],
+      "time": "1 Jam",
+      "category": "Makanan Penutup"
+    },
+    {
+      "id": "02ca",
+      "name": "Kue Jongkong",
+      "image": "https://nico.co.id/wp-content/uploads/2025/07/jongkong-1.jpg",
+      "note": [
+        "Kue jongkong berasal dari Bangka Belitung tetapi juga dikenal di daerah Melayu lainnya seperti Singapura dan Malaysia dengan nama yang sedikit berbeda."
+      ],
+      "ingredients": [
+        "Bahan Lapisan Hijau :",
+        "70 gram tepung beras",
+        "10 gram tepung tapioka",
+        "80 gram gula pasir",
+        "350 ml air kelapa muda & daging kelapa muda",
+        "350 ml santan kental (me : 65 ml santan instan + air)",
+        "1/2 sdt pasta pandan",
+        "1/2 sdt garam",
+        "Bahan Lapisan Putih :",
+        "35 gram tepung beras",
+        "10 gram tepung tapioka",
+        "40 gram gula pasir",
+        "175 ml air kelapa muda",
+        "175 ml santan kental (me : 65 ml santan instan + air)",
+        "1/4 sdt garam",
+        "Saus Aren (Untuk Disiram) :",
+        "100 gram palm sugar (me : gula merah)",
+        "50 ml air"
+      ],
+      "steps": [
+        "Lapisan Hijau : (tuang 65 ml santan instan + air = 350 ml)",
+        "Pisahkan air kelapa & dagingnya",
+        "Daging kelapa iris asal saja",
+        "Sisihkan",
+        "Dalam wadah campur semua bahan lapisan hijau (kecuali daging kelapa)",
+        "Masak hingga meletup, matikan api",
+        "Masukkan daging kelapa muda yang sudah di iris Aduk rata Masukkan dalam cup, ⅔ cup",
+        "Lapisan Putih : Campur semua bahan lapisan putih, aduk rata Masak sampai meletup-letup",
+        "Masukkan ke dalam cup yang sudah berisi lapisan hijau Tunggu dingin di suhu ruang Masukkan dalam kulkas",
+        "Saus Aren : Masukkan semua bahan Masak hingga tercampur rata & mendidih Saring & sisihkan\nSaat akan menikmatinya, siram dengan saus gula merah",
+        "Enak dikonsumsi dingin"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Penutup"
+    },
+    {
+      "id": "d315",
+      "name": "Kue Jorong Jorong",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Jojorong.jpg",
+      "note": [
+        "berakar dari Kesultanan Banten yang namanya berasal dari bahasa Sunda yang berarti \"bersinar\" atau \"berkilau\""
+      ],
+      "ingredients": [
+        "350 gr tepung beras",
+        "25 gr tepung tapioka/sagu",
+        "700 ml santan (1 bks santan kara 65ml saya + air jadi 700ml)",
+        "2 bh daun pandan",
+        "3/4 sdt garam",
+        "Secukupnya gula pasir untuk taburan dibawah"
+      ],
+      "steps": [
+        "Siapkan wadah, masukkan tepung beras, tepung tapioka/sagu, dan 300 ml santan Aduk rata pakai whisk",
+        "Didihkan sisa santan 400 ml dan garam Beri daun pandan (simpul)",
+        "Jika sudah, masukkan air santan yang sudah dididihkan kedalam adonan tepung Aduk2 rata",
+        "Siapkan takir Taburi gula pasir kira2 2 sdt kalau pakai takir daun pandan",
+        "Karna saya pakai aluminium foil cup lebih besar dari daun pandan jadi saya taburi 2 sdm gula pasir",
+        "Tuang adonan diatas gula pasir",
+        "Saya kira\" 3 centong sayur yang kecil",
+        "Sesuaikan saja, jangan terlalu tebal/penuh",
+        "Siapkan kukusan Lalu kukus kurleb 25 menit"
+      ],
+      "time": "1 Jam",
+      "category": "Makanan Penutup"
+    },
+    {
+      "name": "Kue Sari Pengantin",
+      "image": "https://asset-2.tribunnews.com/tribunnewswiki/foto/bank/images/Sikaporo-2.jpg",
+      "note": [
+        "ue tradisional dari masyarakat Suku Banjar di Kalimantan Selatan yang juga ditemukan di daerah lain seperti Kalimantan Timur. Kue ini yang mirip dengan kue talam terdiri dari tiga lapisan berwarna-warni yang terbuat dari adonan tepung beras yang dikukus. Kue ini sering ditemui saat bulan Ramadan untuk berbuka puasa dan juga disajikan pada acara pernikahan serta dikenal sebagai bagian dari wadai (kue) tradisional Banjar lainnya seperti wadai ceper atau wadai bekarat karena dijual dalam bentuk loyang besar yang kemudian diiris-iris."
+      ],
+      "ingredients": [
+        "Lapisan Hijau:",
+        "1 btr Telur",
+        "200 gr Gula Pasir",
+        "50 gr Tepung Beras",
+        "50 gr Tepung Terigu",
+        "1/4 sdt Garam",
+        "350 ml Santan Panas",
+        "200 ml Air Endapan Pandan",
+        "Secukupnya Pewarna Hijau Muda+ Hijau (bila perlu)",
+        "Lapisan Kuning:",
+        "50 gr Tepung Beras",
+        "50 gr Tepung Terigu",
+        "1 ktk Vanili Bubuk",
+        "1/4 sdt Garam",
+        "200 gr Gula Pasir",
+        "550 ml Santan Panas",
+        "Secukupnya Pewarna Kuning",
+        "3 btr Telur (kocok lepas)",
+        "1 sct SKM",
+        "Lapisan Pink:",
+        "100 gr Tepung Beras",
+        "12 gr Gula Pasir",
+        "3/4 sdt Garam",
+        "1 sct SKM",
+        "100 ml Santan Panas",
+        "400 ml Santan",
+        "Secukupnya Pewarna Pink+ Merah (bila perlu)"
+      ],
+      "steps": [
+        "Siapkan loyang persegi ukuran 20x20 cm yang telah diolesi minyak dan dilapisi plastik, panaskan kukusan hingga mengeluarkan asap, gunakan api sedang",
+        "Lapisan Hijau: Kocok telur dan gula dengan whisk hingga tercampur rata, tuang air endapan pandan, aduk rata lalu masukkan tepung beras, tepung terigu dan garam, aduk rata, terakhir masukkan santan panas dan beri pewarna hijau muda + hijau hingga didapatkan warna yang diinginkan",
+        "Tuang adonan hijau ke dalam loyang yang telah dimasukkan ke dalam kukusan, kukus kurang lebih 15 menit atau hingga adonan hijau bisa dituangi adonan kuning",
+        "Lapisan Kuning: Campurkan tepung beras, tepung terigu, vanili, garam dan gula, tuangkan santan panas sedikit dahulu, aduk rata dengan whisk agar tepung tidak menggumpal, lalu masukkan sisa santan dan aduk kembali, tuang telur yang telah dikocok lepas dan SKM, aduk rata kemudian beri pewarna kuning hingga didapatkan warna yang diinginkan",
+        "Tuang adonan kuning sedikit demi sedikit diatas adonan hijau yang telah dikukus tadi menggunakan sendok sayur secara perlahan agar adonan hijau tidak ambyar dan tercampur dengan adonan kuning, kukus kurang lebih 15 menit atau hingga adonan kuning bisa dituangi adonan pink",
+        "Lapisan Pink: Campurkan tepung beras, gula, dan garam lalu tuangi 100 ml santan panas, aduk dengan whisk hingga rata dan kental, masukkan SKM dan 400 ml santan aduk hingga rata, terakhir beri pewarna pink + merah hingga didapatkan warna yang diinginkan",
+        "Tuang adonan pink sedikit demi sedikit diatas adonan kuning yang telah dikukus tadi menggunakan sendok sayur secara perlahan agar adonan kuning tidak ambyar dan tercampur dengan adonan pink, kukus kurang lebih 25-30 menit atau hingga adonan seluruh adonan matang",
+        "Bisa dilakukan tes tusuk untuk mengetahui kematangan kue",
+        "Tips: Usahakan ukuran kukusan jauh lebih besar daripada loyang, agar uap panas tidak membasahi adonan dan lapisi tutup kukusan dengan serbet/ kain apabila menggunakan panci biasa dan apabila diperlukan ganti serbet/ kain pelapis tutup kukusan agar air uap tidak menetes di atas adonan"
+      ],
+      "time": "1 Jam",
+      "category": "Makanan Penutup",
+      "id": "00ff"
+    },
+    {
+      "name": "Kue Putri Keraton",
+      "image": "https://i.ytimg.com/vi/aZGTaFRv0_U/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAW0HtguQim9fP-ktSGWQye7or1dA",
+      "note": [
+        "kue basah tradisional khas dari Banjarmasin Kalimantan Selatan. Kue ini merupakan bagian dari warisan budaya Banjar dan memiliki dua variasi cara pengolahan yaitu dikukus dan dipanggang. Asal-usul spesifik nama dan sejarahnya tidak banyak tercatat tetapi kue ini terkenal dengan teksturnya yang berlapis dengan dasar biskuit yang kering dan lapisan atas yang lembut."
+      ],
+      "ingredients": [
+        "5 Kuning telur",
+        "55 gram margarin",
+        "275 gram Susu Kental manis",
+        "1/2 sdt garam",
+        "1 sdt Vanilla",
+        "125 gram Biskuit Marie",
+        "275 ml susu Cair",
+        "3 Butir Putih telur",
+        "1 sdm gula pasir"
+      ],
+      "steps": [
+        "Siapkan bahan, dan masukan 5 Butir kuning telur kocok lepas, masukan margarin kocok lagi menggunakan wisk sisihkan",
+        "Di Dalam mangkuk yang sudah berisi potongan Marie masukan Susu Cair hancurkan dengan bantuan wisk, lanjut masukan Susu Kental manis dan kocokan kuning telur dan margarin",
+        "Kocok putih telur dengan 1 sdm gula pasir hingga kental berjejak sisihkan",
+        "Jika sudah, masukan secara bertahap putih telur kedalam adonan Marie tadi, aduk rata",
+        "Siapkan loyang yang sudah di olesi margarin panggang dengan oven api atas bawah selama 45 menit dg suhu 150°C",
+        "Sesuaikan dengan oven masingmasing",
+        "Lakukan tes tusuk, jika sudah tidak lengket di tusuk, berarti adonan sudah matang",
+        "Segera keluarkan dari oven, dinginkan dan siap di sajikan"
+      ],
+      "time": "1 Jam",
+      "category": "Makanan Penutup",
+      "id": "0d0d"
+    },
+    {
+      "name": "Bingka Barandam",
+      "image": "https://img.merahputih.com/media/f0/61/06/f06106c4f81330602dfcf6ac7aedd142.png",
+      "note": [
+        "berakar pada tradisi kuliner Suku Banjar di Kalimantan Selatan dipercaya diciptakan oleh Putri Junjung Buih dari Kerajaan Negara Dipa dan menjadi kue istana yang kemudian populer sebagai takjil bulan Ramadan."
+      ],
+      "ingredients": [
+        "2 telor ayam",
+        "2 telor bebek",
+        "90 gr terigu",
+        "1/4 sdt vanili",
+        "1/4 sdt emulsifier (jika telor fresh bisa skip bahan ini)",
+        "Sejumput garam",
+        "Secukupnya pewarna kuning muda/telor (opsional)",
+        "Bahan kuah:",
+        "850 ml air",
+        "5 lbr daun pandan",
+        "200 gr gula pasir",
+        "2 cm kayumanis",
+        "Secukupnya pewarna kuning muda/telor"
+      ],
+      "steps": [
+        "Bikin kuah terlebih dahulu: Campur gula, air, daun pandan, kayu manis, masak hingga cukup mendidih, matikan api masukan pewarna kuning muda, aduk rata dan angkat dan sisihkan",
+        "Dalam wadah campur telor, garam, emulsifier, dan vanili, mixer dengan high speed hingga kental dan mengembang",
+        "Masukan terigu sedikit demi sedikit sambil di mixer hingga rata, dan beri pewarna kuning secukupnya (opsional), aduk hingga rata",
+        "Panaskan loyang kue lumpur, aku menggunakan loyang lobang 19 yah kecil-kecil/mini, oles sedikit minyak/margarin, jika anti lengket tidak perlu lagi di oles",
+        "Masukan adonan hingga penuh, tutup sebentar hingga permukaan kue kering dan angkat jika sudah matang",
+        "Gunakan api kecil cenderung sedang",
+        "Tata kue bingka dalam piring saji dan siram dengan kuahnya, biarkan hingga kuahnya meresap ke dalam kue dulu baru siap di konsumsi",
+        "Bingka Barandam ready to serve , dingin-dingin dari kulkas lebih nikmat"
+      ],
+      "time": "40 Menit",
+      "category": "Makanan Penutup",
+      "id": "6f87"
+    },
+    {
+      "name": "Kue Lapis Cempedak",
+      "image": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/1067/2024/05/23/20240523_192405-2856434547.jpg",
+      "note": [
+        "kudapan khas dari Kalimantan Utara Indonesia yang dibuat dengan memadukan cita rasa buah cempedak dengan tekstur kue lapis yang kenyal dan lembut. Kue ini memanfaatkan cempedak buah tropis yang mirip nangka dengan rasa manis dan aroma khas sebagai bahan utamanya."
+      ],
+      "ingredients": [
+        "30 butir kuning telur",
+        "3 butir putih telur",
+        "650 gr butter",
+        "50 gr susu bubuk",
+        "100 gr terigu",
+        "280 gr gula halus",
+        "3 sdm skm",
+        "secukupnya daging cempedak"
+      ],
+      "steps": [
+        "Kocok butter gula dan Skm sampai ngembang pucat",
+        "kurang lebih 20 menit",
+        "Lalu masukan kuning telur satu persatu",
+        "tambahkan tepung dan susu bubuk",
+        "Kocok putih telur sampai mengembang lalu campur ke adonan butter dengan cara aduk lipat",
+        "Panaskan loyang yg sudah dialasi dengan baking paper ke dalam oven 200c",
+        "tuang adonan sebanyak 100gr ratakan lalu panggang sampai kecoklatan dari awal sampai akhir saya selalu menggunakan api atas",
+        "Pada lapisan ke 3 beri buah cempedak",
+        "lakukan sampai habis setiap lapisan ke 3 saya beri buah cempedak",
+        "Setelah matang keluarkan dari oven biarkan dingin jika sudah dingin hentakan sekali lalu sisist pinggirnya dengan pisau",
+        "keluarkan dari loyang biarkan terbalik semalaman"
+      ],
+      "time": "4 Jam",
+      "category": "Makanan Penutup",
+      "id": "8ead"
+    },
+    {
+      "name": "Kue Apem Putih",
+      "image": "https://asset.kompas.com/crops/OU7U_0rM-7Xna_eGQzG0UnEAqlA=/39x24:700x465/1200x800/data/photo/2021/10/27/6178ed1717cdf.jpg",
+      "note": [
+        "terkait erat dengan legenda Ki Ageng Gribig yang membawa kue ini dari perjalanan ke tanah suci dan membagikannya kepada masyarakat Jatinom Klaten yang sedang dilanda kelaparan"
+      ],
+      "ingredients": [
+        "75 gram tepung beras",
+        "15 gram tepung protein tinggi",
+        "2koma5 gram ragi instant",
+        "150 ml air hangat",
+        "Sejumput garam",
+        "Kuah Kinca",
+        "2 sdm gula aren bubuk",
+        "1 sdm gula pasir",
+        "4 sdm air",
+        "4 sdm air",
+        "Sejumput garam"
+      ],
+      "steps": [
+        "Aktifkan ragi dengan mencampur ragi dan 50ml air hangat, diamkan sampai bergelembung",
+        "Campur tepung beras dan terigu protein tinggi di wadah",
+        "Masukkan ragi yang sudah aktif dan 100 ml air hangat ke dalam wadah tepung, aduk rata",
+        "Diamkan selama 30 menit",
+        "Setelah 30 menit, adonan akan mengembang",
+        "Olesi cetakan dengan minyak, tuang adonan ke cetakan",
+        "Panaskan kukusan, kukus adonan selama kurang lebih 15 menit, jangan lupa untuk bungkus tutup kukusan pakai kain supaya air tidak menetes ke adonan dan jangan lupa di tes tusuk sebelum diangkat",
+        "Untuk kuah kinca, campur semua bahan ke teflon atau panci, masak hingga gula larut",
+        "Kue apem putih khas banten siap dinikmati"
+      ],
+      "time": "20 Menit",
+      "category": "Makanan Penutup",
+      "id": "185c"
+    },
+    {
+      "name": "Kue Pancong",
+      "image": "https://image.idntimes.com/post/20240929/tangkapan-layar-2024-09-29-pukul-210937-050d7c823376e5868043b1f6ae8078e6-c70f3a6e537595ffe466c4ce2b003d2b.png",
+      "note": [
+        "Nama \"pancong\" mungkin berasal dari istilah Betawi namun juga bisa dari cara pembuatannya yang menggunakan alat untuk mencongkel atau mengangkat kue dari cetakannya"
+      ],
+      "ingredients": [
+        "25 gram gula pasir Rose Brand",
+        "1/2 sdt garam",
+        "375 ml air",
+        "50 gram tepung beras Rose Brand",
+        "75 gram tepung terigu protein sedang",
+        "225 gram kelapa muda parut",
+        "Bahan lain :",
+        "Secukupnya margarin Rose Brand untuk olesan cetakan",
+        "Secukupnya gula pasir Rose Brand untuk taburan toping"
+      ],
+      "steps": [
+        "Siapkan bahan",
+        "Masukkan gula pasir Rose Brand, garam dan air ke dalam wadah Aduk hingga gula larut",
+        "Masukkan tepung beras Rose Brand, aduk rata Masukkan tepung terigu, aduk rata",
+        "Masukkan kelapa parut Aduk hingga semua tercampur rata Siapkan cetakan pukis, oles dengan margarin Rose Brand",
+        "Tuang adonan hingga penuh dengan sendok Tutup cetakan dan masak hingga matang, bagian bawah kecoklatan",
+        "Selagi hangat beri toping gula pasir Rose Brand di atasnya Sajikan",
+        "Gurih, di tambah taburan gula jd tambah enak"
+      ],
+      "time": "35 Menit",
+      "category": "Makanan Penutup",
+      "id": "c443"
+    },
+    {
+      "id": "41dc",
+      "name": "Colenak",
+      "image": "https://blog.tokowahab.com/wp-content/uploads/2022/10/Resep-Colenak-Jajanan-Legendaris-Khas-Bandung-yang-Lezat.-Simak-di-blog.tokowahab.com_.png",
+      "note": [
+        "Colenak berasal dari Bandung Jawa Barat dan dikenal sebagai makanan khas Sunda yang terbuat dari peuyeum (tape) singkong yang dibakar kemudian disantap dengan cara dicocolkan pada gula Jawa cair yang dicampur serutan kelapa sesuai dengan kepanjangan namanya dari frasa Sunda \"dicocol enak\"."
+      ],
+      "ingredients": [
+        "300 gr tape singkong",
+        "2 sdm mentega",
+        "secukupnya Air",
+        "Enten kelapa:",
+        "100 gr kelapa parut",
+        "125 gr gula merah",
+        "1 lembar daun pandan",
+        "Sejumput garam"
+      ],
+      "steps": [
+        "Siapkan bahan enten kelapa rebus air dengan gula merah,daun pandan dan garam hingga larut",
+        "Masukan kelapa parut tunggu hingga air menyusut",
+        "Dan Enten siap dihidangkan",
+        "Persiapan peuyeum : buang sumbu,potong dan pipihkan\nSiapkan teflon,panggang peuyeum hingga kecoklatan,sambil dipenyet tipis (apinya sedang cenderung kecil ya)",
+        "Siram kelapa gula merah diatas peuyeum panggang",
+        "colenak siap dihidangkan"
+      ],
+      "time": "20 Menit",
+      "category": "Makanan Penutup"
+    },
+    {
+      "name": "Kue Lumpur",
+      "image": "https://image.idntimes.com/post/20230801/img-20230801-115735-5e7f09505567688e0cb6154ede497009-7d0e20234705f913a172c9623030af1e.jpg",
+      "note": [
+        "dipercaya berasal dari pengaruh kuliner Portugis yaitu pasteis de nata yang dibawa ke Nusantara pada masa penjajahan. Resep kue ini kemudian diadaptasi dengan bahan-bahan lokal seperti tepung terigu santan dan kentang menciptakan tekstur lembut yang mirip lumpur basah. Kue lumpur ini pertama kali berkembang di daerah Betawi sebelum menyebar ke berbagai daerah lain di Indonesia dengan variasi masing-masing."
+      ],
+      "ingredients": [
+        "750 gr kentang",
+        "kukus dan kupas kulitnya",
+        "600 ml santan (3 sachet santan instan rosebrand + air hingga 600ml)",
+        "150 gr margarin lelehkan",
+        "350 gr terigu protein sedang",
+        "250 gr gula pasir",
+        "3 btr telur",
+        "secukupnya Garam",
+        "secukupnya Vanilli",
+        "Kismis buat toping"
+      ],
+      "steps": [
+        "Siapkan bahan, haluskan kentang",
+        "Mikser telur dan gula pasir hingga gula larut",
+        "Masukkan kentang, mikser hingga tercampur rata, kemudian masukkan tepung bergantian dg santan",
+        "Terakhir masukkan margarin cair, mikser hingga tercampur rata",
+        "Panaskan cetakan kue lumpur mini, alasi bagian bawahnya dg seng biar tidak cepet gosong",
+        "Tuang adonan tunggu hingga setengah matang, beri kismis dan panggang hingga matang",
+        "Angkat dan siap disajikan"
+      ],
+      "time": "2 Jam",
+      "category": "Makanan Penutup",
+      "id": "7605"
+    },
+    {
+      "id": "38e2",
+      "name": "Geplak",
+      "image": "https://www.senibudayabetawi.com/wp-content/uploads/2021/04/4c784d95b27fe9fb010f08f06c8f058a.jpg",
+      "note": [
+        "makanan tradisional manis dari Bantul Yogyakarta yang terbuat dari parutan kelapa dan gula. Makanan ini muncul pada masa kolonial Belanda karena melimpahnya pohon kelapa dan perkebunan gula tebu di Bantul serta digunakan sebagai makanan pengganti beras saat paceklik karena harganya terjangkau dan bahannya mudah didapat."
+      ],
+      "ingredients": [
+        "1/4 liter beras (kurang lebih 215 gram)",
+        "85 gram kelapa parut (kelapa setengah tua)",
+        "125 gram gula pasir",
+        "125 ml air",
+        "2 lembar daun pandan",
+        "Sejumput garam",
+        "1 sdm tepung beras sangrai"
+      ],
+      "steps": [
+        "Siapkan beras, cuci bersih",
+        "Rendam dengan air hangat selama 1 jam, tiriskan lalu jemur hingga kering",
+        "Blender beras hingga halus Ayak",
+        "Sangrai tepung beras dan 1 lembar daun pandan dengan api kecil hingga tepung matang dan berwarna agak kecoklatan, tepung matang ditandai dengan keringnya daun pandan Sisihkan",
+        "Sangrai kelapa hingga kering, dengan api kecil saja supaya tidak gosong Sisihkan",
+        "Masak air, gula pasir, garam, dan 1 lembar daun pandan hingga mendidih dan sedikit mengental, tapi jangan terlalu kental, ya",
+        "Campur tepung beras sangrai dan kelapa sangrai",
+        "Tuangi air gula sedikit demi sedikit sampai adonan menggumpal",
+        "Hentikan pemberian air gula jika adonan sudah menggumpal Jangan tuang air gula sekaligus, ya, ingat! Nanti kelembekan",
+        "Masukkan adonan ke dalam cetakan atau loyang",
+        "Saya pakai thinwall karena cuma sedikit",
+        "Padatkan dengan cara ditekan-tekan dengan telapak tangan",
+        "Mau memukul kok nggak bisa 🤣",
+        "Saya bisa membayangkan jika kue ini dibuat versi banyak di tempat orang hajatan, adonan diletakkan ditampah lalu dipukul-pukul supaya padat dan rata",
+        "Taburi dengan tepung beras sangrai, ratakan Diamkan hingga dingin",
+        "Setelah dingin, keluarkan dari thinwall lalu potong-potong",
+        "Kue geplak siap disajikan"
+      ],
+      "time": "2 Jam",
+      "category": "Makanan Penutup"
+    },
+    {
+      "id": "695a",
+      "name": "Getuk Pisang",
+      "image": "https://image.idntimes.com/post/20230904/img-20230904-211657-421f36c966a2145b47d5f7f02e7dcdb9.jpg?tr=w-1200,f-webp,q-75&width=1200&format=webp&quality=75",
+      "note": [
+        "dipercaya lahir dari kondisi krisis pangan di Kediri pada masa penjajahan Jepang di mana masyarakat memanfaatkan melimpahnya pisang raja nangka di sekitar Sungai Brantas sebagai sumber pangan alternatif pengganti beras."
+      ],
+      "ingredients": [
+        "2 kg pisang raja nangka mengkal",
+        "Tidak mentah tapi belum matang",
+        "200 gr gula pasir (atau sesuai selera)"
+      ],
+      "steps": [
+        "Kupas pisang, 2kg setelah dikuppas, Cuci bersih",
+        "Kukus selama 3-4 jam sampai memerah, Saya 3,5 jam",
+        "Blender atau tumbuk sambil dicampur gula selagi panas",
+        "Cetak dalam daun pisang panas2, Sematkan lidi",
+        "Saya taruh di kotak karena kurang mahir membungkus pakai daun pisang",
+        "Biarkan dingin",
+        "Siap disajikan"
+      ],
+      "time": "4 Jam",
+      "category": "Makanan Penutup"
+    },
+    {
+      "id": "f9c7",
+      "name": "Pie Susu",
+      "image": "https://image.idntimes.com/post/20210228/fromandroid-41a7bfad27fd6b94159fe7e9ae173f11.jpg",
+      "note": [
+        "Pie susu Bali adalah hasil akulturasi budaya Eropa (Portugis) Tionghoa (Hong Kong) dan Indonesia (Bali) yang diperkenalkan di Hong Kong pada 1940-an dan kemudian diadaptasi serta dipopulerkan di Bali pada 1980-an sebagai oleh-oleh khas yang kini mendunia. Kue ini memiliki kulit pastry mirip tart Eropa dan isian custard telur dan susu kental manis yang disesuaikan dengan selera lokal."
+      ],
+      "ingredients": [
+        "Bahan Kulit Pie",
+        "250 gr terigu segitiga biru",
+        "130 gr Palmia Margarin",
+        "1 buah kuning telur",
+        "1 sdm gula halus",
+        "Bahan Fla Susu",
+        "140 gr SKM",
+        "1 sdm susu bubuk",
+        "3 buah kuning telur",
+        "100 ml susu cair",
+        "1/2 sdt vanili cair"
+      ],
+      "steps": [
+        "Siapkan semua bahan, lalu buat kulit pie",
+        "Campur bahan kulit pie sampai rata dan bisa di pulung",
+        "Lalu cetak di cetakan pie, ambil adonan lalu pipihkan, kemudian tusuk kulit pie menggunakan garpu",
+        "Lakukan sampai habis",
+        "Sisihkan dulu sembari memanaskan oven tangkring dengan api kecil cenderung sedang",
+        "Campur bahan Fla Susu, aduk menggunakan whisk sampai tercampur rata",
+        "Lalu tuang ke kulit pie, gak usah banyak-banyak soalnya nanti Fla-nya jadi tumpah",
+        "Lakukan sampai semua kulit pie dipenuhi Fla Susu",
+        "Oven -+30menit dengan api sedang, 15 menit sekali di cek kalau matangnya kurang merata, putar sisi bagian yang belum matang",
+        "Oven sampai kecoklatan",
+        "Tunggu dingin lalu keluarkan dari cetakannya",
+        "Kalau mau lebih enak, bisa di simpan di kulkas ya"
+      ],
+      "time": "1 Jam",
+      "category": "Makanan Penutup"
+    },
+    {
+      "id": "4c2b",
+      "name": "Kompiang",
+      "image": "https://bake.co.id/wp-content/uploads/2022/10/word-image-2938-1.png",
+      "note": [
+        "bermula dari Tiongkok khususnya dari kebudayaan Provinsi Fujian di mana roti berbentuk donat ini disebut Guang Bing (atau Guang Biang) dan diciptakan pada abad ke-16 oleh Jenderal Qi Jiguang sebagai bekal prajurit yang tidak menimbulkan aroma agar tidak terdeteksi musuh."
+      ],
+      "ingredients": [
+        "Bahan isian :",
+        "250 gr ayam cincang halus",
+        "1/2 buah bawang bombay",
+        "1 siung bawang putih",
+        "50 ml air",
+        "1/2 sdt kaldu bubuk",
+        "1/4 sdt lada bubuk",
+        "1/2 sdt garam",
+        "3 sdm kecap manis",
+        "Bahan roti :",
+        "3 gr ragi",
+        "30 gr gula",
+        "100 ml susu hangat suam kuku",
+        "200 gr terigu protein sedang",
+        "1 butir kuning telur",
+        "1/4 sdt garam",
+        "20 gr butter / margarin",
+        "lelehkan"
+      ],
+      "steps": [
+        "Tumis bawang bombay dan bawang putih hingga harum lalu masukkan ayam cincang",
+        "Masak hingga ayam berubah warna",
+        "Tambahkan kecap manis, garam, lada dan juga kaldu bubuk",
+        "Masak hingga ayam meresap dan matang",
+        "Jangan lupa koreksi rasanya Dan sisihkan dulu",
+        "Membuat roti : campur semua bahan jadi satu lalu istirahatkan selama 1 jam hingga mengembang",
+        "Tampilkan adonan lalu bagi adonan menjadi 40 gr atau sesuai keinginan",
+        "Lalu pipihkan dan isi dengan isiannya",
+        "Jika terasa lengket di tangan bisa menggunakan tepung",
+        "Bulatkan lalu celupkan ke air dan gulingkan kedalam biji wijen",
+        "Tata di loyang yang sudah dialasi baking paper atau dioles tipis dengan margarin",
+        "Istirahatkan kembali roti selama 1 jam hingga mengembang",
+        "Lalu oven roti selama 20 menit dengan suhu 175 derajat celcius",
+        "Atau sesuaikan oven masing-masing",
+        "Jangan lupa panaskan dulu oven 10 menit sebelum digunakan",
+        "Sajikan kompyang khas NTT ini sebagai camilan sarapan maupun bekal"
+      ],
+      "time": "1 Jam",
+      "category": "Makanan Penutup"
+    },
+    {
+      "name": "Naga Sari",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2021/06/24/resep-nagasari-tepung-beras-1_43.jpeg?w=1200",
+      "note": [
+        "Asal-usul kue nagasari tidak dapat dipastikan secara tunggal",
+        "namun ada dua versi yang paling populer: Indramayu dan Kerajaan Pajang pada abad ke-16 di mana kue ini awalnya disajikan oleh Jaka Tingkir kepada pendeta Buddha dan menjadi lambang ketulusan serta doa kemakmuran dengan nama \"Nagasari\" yang berarti isi utama dari suatu benda yang mulia."
+      ],
+      "ingredients": [
+        "250 gr tepung beras putih",
+        "50 gr tepung tapioka",
+        "125 gr gula pasir",
+        "850 ml santan cair",
+        "1 sdt garam",
+        "1/2 sdt vanili bubuk",
+        "1 lembar daun pandan",
+        "1/2-1 sdt pasta pandan",
+        "2 tetes pewarna makanan hijau",
+        "8 buah pisang kepok",
+        "Secukupnya daun pisang"
+      ],
+      "steps": [
+        "Siapkan bahan",
+        "Tuang santan ke dalam panci",
+        "Masukkan tepung beras dan tepung tapioka",
+        "Aduk menggunakan ballon whisk hingga semua bahan tercampur rata dan tidak ada yang bergerindil",
+        "(Posisi belum di atas kompor)",
+        "Saring supaya tidak ada yang bergerindil",
+        "Masukkan gula pasir, garam dan vanili bubuk",
+        "Tambahkan daun pandan",
+        "Tambahkan pasta pandan dan pewarna makanan hijau",
+        "Sesuaikan dengan warna yang diinginkan",
+        "Panaskan dengan api kecil Masak hingga tanak, Aduk terus supaya tidak gosong",
+        "Siapkan pisang, Siapkan selembar daun pisang (lebar bisa dikira-kira) ambil sedikit adonan, tata pisang di tengahnya lalu ratakan adonan menutupi seluruh bagian pisang",
+        "Gulung daun pisang lalu lipat kedua ujungnya, Rapikan",
+        "Panaskan kukusan\nLetakkan nagasari di dalam kukusan, Kukus selama 25-30 menit",
+        "Setelah matang, angkat lalu tunggu dingin",
+        "Nikmati nagasari setelah benar-benar dingin supaya teksturnya padat dan tidak lembek"
+      ],
+      "time": "1 Jam",
+      "category": "Makanan Penutup",
+      "id": "62bd"
+    },
+    {
+      "name": "Kue Ktrisolo",
+      "image": "https://cdn.rri.co.id/berita/Gorontalo/o/1728822280322-katrisoslo/gpnt3gwhwju5s3h.webp",
+      "note": [
+        "Asal usul kue katrisolo atau yang lebih dikenal dengan Katirisala (dengan 't' bukan 'r' pada kata 'katrisolo'). berkaitan erat dengan tradisi masyarakat Bugis Sulawesi Selatan di wilayah Ajatappareng."
+      ],
+      "ingredients": [
+        "1/2 kaleng susu Beras ketan",
+        "beras 1/2 kaleng susu",
+        "1 Bks kecil Santan/kara",
+        "2 biji kecil gula merah",
+        "Tepung hungkwee",
+        "2 sachet susu coklat",
+        "10 SDM gula pasir",
+        "secukupnya minyak makan",
+        "2 siung Bawang putih",
+        "garam"
+      ],
+      "steps": [
+        "Cuci bersih beras ketan sampe 3x, rendam selama 3 jam",
+        "Setelah 3 jam, cuci bersih 3x beras untuk nasi lalu campurkan dengan beras ketan yg tadi direndam, diberi bumbu ulekan bawang putih 2 siung + garam dan beri santan, kalau aku yg ini gak pake santan tapi minyak makan secukupnya diaduk merata kemudian masak kalau aku masak di smart cooking merk vienta, karena udah ada settingan waktu",
+        "Tunggu sampe matang, lalu sediakan baki atau lengser alasi dengan plastik, aku pakai plastik es batu untuk alas, lanjut nasi yg udah matang tadi di ratakan di baki sambil ditekan tekan",
+        "Lanjut bikin untuk lapisan atas, tuang 5 gelas air ke dalam panci, beri gula merah yg sudah disisir, beri gula 10 SDM + susu coklat 2 sachet + santan kemudian tepung hungkwee aduk merata masak di api sedang sambil diaduk terus sampe adonan mulai terlihat naik dan coklat mengkilat, kemudian matikan api",
+        "Kemudian tuang secara perlahan dan ratakan diatas nasi yg udah diratakan di baki sebelumnya",
+        "Tunggu sampai benar² dingin lalu dibagi bagi menjadi beberapa bagian"
+      ],
+      "time": "10 Jam",
+      "category": "Makanan Penutup",
+      "id": "4f94"
+    },
+    {
+      "name": "Kue Cucur",
+      "image": "https://img-global.cpcdn.com/recipes/49072becfd2df381/1200x630cq80/photo.jpg",
+      "note": [
+        "diperkirakan berasal dari tradisi kuliner Asia Tenggara. dengan pengaruh Tionghoa dan India. Nama \"cucur\" berasal dari kata \"mengucurkan\" merujuk pada cara pembuatan kue dengan menuang adonan ke minyak panas."
+      ],
+      "ingredients": [
+        "100 gram tepung beras Rose Brand",
+        "100 gram tepung terigu",
+        "150 gram gula merah iris",
+        "250 ml air",
+        "1/2 sdt garam",
+        "2 lembar daun pandan / sejumput jari vanili bubuk",
+        "Secukupnya minyak goreng Rose Brand utk menggoreng"
+      ],
+      "steps": [
+        "Di panci, campur dan rebus gula merah, air, garam dan daun pandan sampai gula larut dan mendidih",
+        "Angkat, diamkan sampai suam-suam kuku lalu saring",
+        "Di wadah lain, tuang tepung terigu dan tepung beras Rose Brand, aduk rata pake whisk",
+        "Lalu masukkan air gula yang sudah hangat, aduk-aduk terus sampai tercampur rata tidak ada yg bergerindil",
+        "Kemudian tutup adonan dgn kain bersih, istirahatkan ± 30 menit",
+        "Setelah 30 menit, buka kain dan aduk2 lagi adonan supaya tidak menggumpal",
+        "Panaskan wajan cekung, tuang sedikit minyak goreng Rose Brand (jangan banyak2)",
+        "Setelah minyak benar-benar panas, tuang 1 sdk sayur adonan, goreng menggunakan api kecil supaya tidak gosong",
+        "Adonan akan matang mulai dari pinggir, lalu ke tengah",
+        "Siram-siram pake minyak bagian tengahnya sampai membentuk pusaran",
+        "Balik kue, angkat dan tiriskan",
+        "Siap dihidangkan"
+      ],
+      "time": "1 Jam 30 Menit",
+      "category": "Makanan Penutup",
+      "id": "4323"
+    },
+    {
+      "name": "Kue Tetu",
+      "image": "https://assets-a1.kompasiana.com/items/album/2022/04/04/widraaudina1-0058858001584086295-kuepelita-1588311154-copy-1024x1024-624aae4832c4c6288509bb22.jpg",
+      "note": [
+        "Kue Tetu adalah kue tradisional Sulawesi terutama dari wilayah Mandar yang dinamai berdasarkan bentuk wadahnya yang menyerupai perahu (tetu). Kue ini terbuat dari adonan tepung santan dan gula serta diolah menggunakan wadah daun pandan yang dibentuk seperti perahu kecil sehingga menciptakan rasa manis legit dan aroma pandan yang khas."
+      ],
+      "ingredients": [
+        "200 gr tepung terugu",
+        "2 sdm tepung beras",
+        "700 ml santan kekentalan sedang",
+        "Sejumput garam",
+        "Secukupnya gula merah",
+        "Bahan pelengkap:",
+        "Secukupnya daun pandan besar"
+      ],
+      "steps": [
+        "Siapkan daun pandan besar",
+        "Cuci bersih",
+        "Lalu potong sesuai selera, lipat bagian ujung, kancing dengan streples",
+        "Lakukan dikedua sisi, seperti takir atau bentuk perahu",
+        "Siapkan bahan",
+        "Peras santan, masukkan tepung terigu, tepung beras & garam",
+        "Aduk rata",
+        "Pastikan tdk ada yg bergerindil",
+        "Di wadah lain sisir gula merah",
+        "Siapkan takir pandan, isi dengan gula merah secukupnya",
+        "Panaskan kukusan",
+        "Masukkan takir yg berisi gula merah tata",
+        "Lalu beri adonan santan dengan sendok sayur dengan hati2",
+        "Kukus selama 15 menit",
+        "Setelah matang kue tetu siap di nikmati"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Penutup",
+      "id": "3a71"
+    },
+    {
+      "name": "Klapertart",
+      "image": "https://asset.kompas.com/crops/gasc_UfYjDN6c8Uu8XgwkDBetVg=/0x0:1000x667/1200x800/data/photo/2021/08/22/6121a0a80c07c.jpg",
+      "note": [
+        "kue khas Manado yang berasal dari masa kolonial Belanda merupakan akulturasi dari resep Belanda dan hasil adaptasi dengan kelapa melimpah di Sulawesi Utara."
+      ],
+      "ingredients": [
+        "600 ml air kelapa muda",
+        "750 ml daging kelapa muda",
+        "100 g tepung pro sedang",
+        "100 g tepung maizena",
+        "100 g gula pasir",
+        "550 g kental manis",
+        "1 lt UHT",
+        "1 sdt bubuk kayu manis (sesuai selera",
+        "3 sdm rhum(vanilla essence) / dapat ganti 1/2 sdt Vanili bubuk",
+        "200 g kismis (sesuai selera)",
+        "200 g kenari (sesuai selera)",
+        "100 g slice almonds",
+        "1 kotal keju diparut",
+        "5 butir (pisahkan kunjng dan putihnya)",
+        "100 g margarin"
+      ],
+      "steps": [
+        "Campur tepung terigu + tepung maizena + kental manis, agar tidak bergerindil",
+        "Masukan UHT, gula pasir, air kelapa muda, daging kelapa muda, vanila essence, kuning telur, margarin",
+        "Masukan juga kismis, sisahkan separo bagian untuk topping, kenari, slice alomond, masak diapi sedang cendering kecil, aduk pelan2 sampai creamy, matikan kompor",
+        "Sambil di dinginkan, mixer putih telor sampai putih mengembang, (bisa juga pakai cream of tar tar 1/2 sdt) agar putih telor stabil",
+        "Masukan bahan dalam loyang, sisakan ruang untuk toppingan, sy pakai 2 pc uk diameter 21 dan 10 cup uk 10x7,5, atau bisa pakai cup uk 10x7,5 sebanyak 22 cup-24 cup",
+        "Beri topingan putih telor yg sdh dimixer, bubuk kayu manis, kismis, slice almond, kenari, keju",
+        "Masak di oven yg sdh dipanaskan, api atas bawah, 180 c, +- 20-30 menit, bisa di atur buka oven, tata posisi agar matang merata, angkat sajikan Klapertar siap di hidangkan",
+        "simpan di freezer kulkas tahan 2 hari aman"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Penutup",
+      "id": "7ca0"
+    },
+    {
+      "name": "Kasoami",
+      "image": "https://blog.kecipir.com/wp-content/uploads/2022/09/Resep-Kasuami.jpg",
+      "note": [
+        "Kasuami adalah makanan pokok tradisional yang berasal dari Sulawesi Tenggara khususnya daerah Wakatobi dan Buton yang terbuat dari parutan singkong yang dikukus dan dibentuk seperti tumpeng. Makanan ini muncul karena keterbatasan lahan pertanian padi di daerah tersebut membuat singkong menjadi makanan utama yang tumbuh subur."
+      ],
+      "ingredients": [
+        "1 .kg singkong",
+        "1/2 .kg Klapa parut",
+        "200 .gr Gula merah(bnyk singkong)",
+        "Daun pandan scukup nya",
+        "Air scukupx untuk isian dandang"
+      ],
+      "steps": [
+        "Singkong di parut buang airnya smpe kering lumat smpeh hncur atw di tumbuk ya makcan sisihkan",
+        "Sangrai Klapa parut sampai agk kemerahan ya smpe wangi Klapa parutx campur dngan singkong jadi 1 ya",
+        "Potong dadu kecil gulmerx atw kecil\" ya cetak pke gelas singkong parutx ksih lubang ya di tengah taruh gulmerx msuk kn di dandang",
+        "Seperti ni ya bucan lalu ttup masak smpe kurleb 30 menit atw smpe Mateng jngn lupa di dlm dandang msukin daun pandan di bwa dandang",
+        "Stelah masak sisihkan di piring siap di sajikan slagi panas ya bucan dingin pun ttap enk di mkan brsama kluarga tercinta"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Penutup",
+      "id": "5306"
+    },
+    {
+      "name": "Es Pisang Ijo",
+      "image": "https://image.idntimes.com/post/20180517/pisang-ijo-cendana-1-pisang-ijo-cendana-5-4e849386cbc817626e913e8a3b7042b4.jpg",
+      "note": [
+        "berawal dari Makassar Sulawesi Selatan diyakini berasal dari zaman kerajaan dan merupakan hasil eksperimen masyarakat Bugis-Makassar yang menggunakan bahan-bahan lokal seperti pisang tepung beras santan dan pandan."
+      ],
+      "ingredients": [
+        "Bahan Pisang Ijo :",
+        "500 ml santan",
+        "150 gr tepung terigu",
+        "50 gr tepung beras",
+        "7 buah pisang raja matang",
+        "1 sdt garam",
+        "Secukupnya pasta pandan+pewarna makanan hijau muda",
+        "Bubur Mutiara :",
+        "500 ml air",
+        "100 gr sagu mutiara",
+        "2 sdm gula pasir",
+        "Bubur Sumsum :",
+        "1000 ml santan",
+        "80 gr tepung beras",
+        "20 gr tepung ketan putih",
+        "4 lembar daun pandan",
+        "1/2 sdt garam",
+        "Bahan Lainnya :",
+        "Es Batu",
+        "Sirup Cocopandan"
+      ],
+      "steps": [
+        "Siapkan semua bahan,kukus pisang selama 10 menit",
+        "Campur semua bahan kulit pisang, aduk sampai tercampur dan tidak bergerindil",
+        "tambahkan pasta pandan juga pewarna makanan hijau muda secukupnya",
+        "Masak sambil terus diaduk hingga kalis lalu angkat, biarkan agak hangat ambil secukupnya adonan pipihkan",
+        "Taro pisang lalu gulung kukus selama 15 menit",
+        "Didihkan air dan daun pandan, jika sudah mendidih masukkan sagu mutiara masak selama 15 menit kemudian tutup pancinya matikan api lalu diamkan selama 30 menit lalu masak kembali selama 7 menit sambil ditambahkan gula pasir lalu tutup kembali sampai siap digunakan",
+        "Campur semua bahan bubar sumsum, aduk sampai tercampur rata masak dengan api kecil sambil terus diaduk hingga meletup-letup lalu angkat",
+        "Sajikan es pisang ijo dengan bubur sumsum,sagu mutiara,sirup dan es batu"
+      ],
+      "time": "45 Menit",
+      "category": "Makanan Penutup",
+      "id": "988b"
+    },
+    {
+      "id": "905b",
+      "name": "Kue Lempeng",
+      "image": "https://blog.tokowahab.com/wp-content/uploads/2025/05/Cara-Membuat-Resep-Kue-Lempeng-Pisang-Khas-Melayu-Enak-Wajib-Coba.jpg",
+      "note": [
+        "tidak ada satu sejarah tunggal karena namanya merujuk pada makanan tradisional yang berbentuk pipih bundar yang dibuat dengan bahan berbeda di berbagai wilayah Indonesia."
+      ],
+      "ingredients": [
+        "300 gr pisang uli matang",
+        "75 gr tepung terigu",
+        "25 gr gula pasir",
+        "1 sdm mentega",
+        "cairkan",
+        "1/4 sdt vanili bubuk",
+        "Sejumput garam",
+        "2 sdm susu bubuk",
+        "50 ml air",
+        "50 gr keju cheddar parut",
+        "Secukupnya keju cheddar parut untuk topping"
+      ],
+      "steps": [
+        "Lumatkan pisang",
+        "Masukkan terigu, gula pasir, garam & vanili bubuk",
+        "Aduk sampai merata",
+        "Masukkan susu bubuk, mentega cair & air",
+        "Aduk sampai bahan tercampur rata, baru masukkan keju parut & aduk kembali hingga merata",
+        "Panaskan teflon, oles sedikit mentega",
+        "Masukkan 1 sdm adonan lempeng, masak dgn api agak kecil sampai kecoklatan di kedua sisi",
+        "Setelah matang, angkat & beri topping keju parut",
+        "Siap di nikmati selagi hangat"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Penutup"
+    },
+    {
+      "id": "dc1d",
+      "name": "Kue Asida",
+      "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdmp5hDsc9SZ8pG3QgsCUXCj2_02k1Raw1C8RETrWrEbRu6IWtlSo2vfRxDbTw_fVHbOczcbZE1P_2ulF-DMEZ4XaRSddbaoDcBqhXOy3p6IWGjbMMdzqtZjqIWKh6GlRmTLshGoA?key=JP0O8kiC8oiCxEFqXTxPnIC-",
+      "note": [
+        "di Riau ia adalah makanan istimewa yang terinspirasi dari camilan Arab dan dulunya disantap para raja sementara di Maluku ia diciptakan saat masa kolonial sebagai alternatif makanan berenergi dan tahan lama dari tepung dan gula."
+      ],
+      "ingredients": [
+        "250 gr Terigu",
+        "200 gr Gula jawa",
+        "1 sdm Margarin",
+        "400 ml Air",
+        "1 batang Kayu manis",
+        "5 butir Kapulaga",
+        "3 butir Cengkeh",
+        "2 lembar Daun Pandan"
+      ],
+      "steps": [
+        "Campur air, gula merah, kayu manis, kapulaga dan cengkih, rebus sampai gula larut dan mendidih",
+        "Saring airnya dan dinginkan",
+        "Masukkan terigu dalam wadah, tuang air gula sebagian",
+        "Aduk sampai licin kemudian masukkan sisa air gula",
+        "Masak adonan sampai tekstur mengental, tambahkan 1 sendok makan margarin",
+        "Masak terus sambil terus diaduk sampai teksturnya kalis seperti dodol",
+        "Bentuk adonan seperti mangkuk, kemudian tekan bagian atasnya sampai membentuk lubang",
+        "Isi lubang bagian atas dengan margarin leleh",
+        "Asidah siap disajikan"
+      ],
+      "time": "40 Menit",
+      "category": "Makanan Penutup"
+    },
+    {
+      "id": "c335",
+      "name": "Kue Lontar",
+      "image": "https://media.zcreators.id/crop/0x0:0x0/750x500/photo/indizone/2023/02/01/zosv4Oq/resep-dan-cara-membuat-kue-lontar-papua-bahannya-sederhana46.jpg",
+      "note": [
+        "kuliner khas Papua yang merupakan peninggalan dari masa penjajahan Belanda. Nama kue ini berasal dari bahasa Belanda \"ronde taart\" atau \"kue bulat\" yang kemudian dilafalkan penduduk lokal menjadi \"lontar\"."
+      ],
+      "ingredients": [
+        "Bahan Kulit :",
+        "150 gr terigu protein sedang",
+        "100 gr margarine (sy pakai royal palmia)",
+        "1 butir kuning telur (sy pakai kuning telur matang)",
+        "Bahan Isi :",
+        "8 butir kuning telur",
+        "1 kaleng skm",
+        "1 kaleng air panas (ukuran kaleng skm)",
+        "1 sdt rhum (bisa di ganti perisa vanilla)",
+        "1/2 sdt garam"
+      ],
+      "steps": [
+        "Campur semua bahan kulit, uleni sebentar hingga rata, dan bisa di pulung",
+        "Siapkan piring lontar (piring khas papua gambar ikan), krn sy tidak punya sy pakai piring tahan panas biasa yg ada di rumah",
+        "Bisa juga pakai cetakan pie yg diameter besar",
+        "Ratakan adonan ke seluruh bagian piring",
+        "Kemudian tusuk² bagian bawahnya",
+        "Campur semua bahan isi, aduk rata",
+        "Kemudian saring",
+        "Dan tuangkan keatas adonan kulit yg sudah siap tadi",
+        "Beri kerat di sekeliling pinggiran piring dengan menggunakan garpu",
+        "Bisa juga pakai penjepit nastar daun",
+        "Panggang dalam oven yg sudah di panaskan sebelumnya",
+        "Panggang suhu 170°C selama ± 20 menit, kemudian turunkan suhu menjadi 160°C, teruskan memanggang lagi selama 40 menit/ hingga isiannya set (tidak cair)",
+        "Setelah matang keluarkan dari oven",
+        "Tunggu agak dingin baru di potong"
+      ],
+      "time": "1 Jam",
+      "category": "Makanan Penutup"
+    },
+    {
+      "id": "4094",
+      "name": "Roti Abon Gulung",
+      "image": "https://asset.kompas.com/crops/Bcr2eh1BxPxNkHnzw89qWd7Et1g=/0x230:1000x896/1200x800/data/photo/2022/07/02/62bf8c14b0e56.jpeg",
+      "note": [
+        "berasal dari Manokwari Papua dan pertama kali dibuat pada tahun 2005 oleh Jimmy Irianto seorang pensiunan yang membuka Hawai Bakery."
+      ],
+      "ingredients": [
+        "250 gr tepung protein tinggi",
+        "30 gr gula",
+        "2 butir telor",
+        "1 sdm susu bubuk (dancow putih)",
+        "5 gr ragi instan(fermipan)",
+        "100 ml air es",
+        "50 gr margarin",
+        "1/4 sdt garam",
+        "untuk taburan",
+        "secukupnya cabe kriting merah",
+        "secukupnya Daun bawang",
+        "secukupnya Wijen",
+        "untuk olesan",
+        "1 butir kuning telor kocok lepas",
+        "untuk filing",
+        "secukupnya mayones",
+        "secukupnya susu kental manis",
+        "secukupnya abon sapi"
+      ],
+      "steps": [
+        "Campurkan tepung terigu, ragi, gula pasir, telur kuning dan susu cair dingin di mixer dengan setengah kalis, setelah itu masukkan garam dan mentega di mixer sampai sampai kalis adonannya sekitar 20 menit",
+        "Setelah adonan kalis istirahatkan 30 menit",
+        "Setelah 30 menit adonan sudah mengembang pindah ke alas kerja, gilas adonan sesuai loyang yang dipakai 30 x 30 cm",
+        "Loyang yang sudah diolesin margarin dan dialasin kertas roti",
+        "Pindahkan adonan ke loyang dan ratakan adonan setelah itu ditusuk tusuk pakai garpu supaya saat proofing adonan tidak mengembang",
+        "Kita olesin adonan dengan kuning telur yang sudah dicampur dengan susu sampai merata semua, terus nambahkan cabe merah, daun bawang dan wijen setelah itu ditekan tekan adonannya supaya bisa lengket",
+        "Proofing sampai mengembang -/+ 30 menit",
+        "Oven harus dipanaskan terlebih dahulu sekitar 10 menit, terus panggang selama 12-15 menit, (Sesuai oven masing masing)",
+        "Terus olesin mayonaise dan abon sampai merata dan tekan baru di gulung",
+        "Biarkan dulu 10-15 menit",
+        "Buka kertas roti kemudian, Potong2 sesuai selera"
+      ],
+      "time": "2 Jam",
+      "category": "Makanan Penutup"
+    },
+    {
+      "id": "63fb",
+      "name": "Eurimoo",
+      "image": "https://img-global.cpcdn.com/recipes/ef4a45d99e25fcec/1200x630cq80/photo.jpg",
+      "note": [
+        "berasal dari Timika Papua dan merupakan kue basah tradisional yang dibuat dari bahan utama pisang tepung sagu dan kelapa parut. Kue ini memiliki tekstur kenyal dan rasa gurih serta tidak memiliki isian gula merah seperti klepon Jawa. Eurimoo disajikan pada acara-acara adat di Timika seperti pernikahan dan khitanan dan mencerminkan kekayaan budaya serta pemanfaatan sumber daya alam lokal masyarakat Papua."
+      ],
+      "ingredients": [
+        "3 buah pisang awak yang cukup matang dan lumatkan (resep asli pake pisang kepok/ambon)",
+        "50 gr tepung sagu dari Sapapua.sagu",
+        "50 gr tepung mocaf",
+        "50 gr kelapa parut",
+        "20 gr gula (bisa diskip kalau pisang nya sudah manis)",
+        "Secukupnya air jika diperlukan (saya skip)",
+        "Bahan Balutan",
+        "Secukupnya kelapa parut kukus",
+        "Secukupnya garam"
+      ],
+      "steps": [
+        "Campur semua bahan jadi satu kecuali kelapa parut yang jadi baluran",
+        "Kemudian uleni sampai adonan bisa di pulung, bulatkan adonan dan taruh di wadah yang sudah di taburi tepung, lakukan sampai semua adonan habis",
+        "Kukus adonan sampai matang (resep asli di rebus sampai adonan mengapung, karena adonan saya agak lembek jadi saya kukus)",
+        "Angkat dan gulingkan di kelapa parut dan sajikan"
+      ],
+      "time": "40 Menit",
+      "category": "Makanan Penutup"
+    },
+    {
+      "id": "8750",
+      "name": "Kue Sagu",
+      "image": "https://img-global.cpcdn.com/recipes/d983a72277bd3a32/1200x630cq80/photo.jpg",
+      "note": [
+        "berawal dari masyarakat Indonesia Bagian Timur seperti Papua dan Maluku yang telah memanfaatkan sagu sebagai makanan pokok sejak ribuan tahun lalu sebelum beras populer."
+      ],
+      "ingredients": [
+        "1 kg tepung sagu/tapioka sudah di sangrai",
+        "300 g gula halus",
+        "400 g margarin",
+        "4 kuning telur",
+        "300-400 ml santan instan (sesuaikan)"
+      ],
+      "steps": [
+        "Sangrai tepung dengan 3 lembar daun pandan hingga terasa ringan di api sedang cenderung kecil (10 menitan)",
+        "Istirahatkan minimali 10 jam",
+        "Sy biasanya malam dan besok paginya baru di buat adonan",
+        "Jangan lupa diayak sekalian baru di simpan",
+        "Siapkan tepung di wadah terpisah",
+        "Kocok telur dan margarin sampai setengah pucat, aduk bersama sebagai santan, tambah ketepung buat adonan hingga bisa di cetak dengan tambahan santan secara bertahap",
+        "Cetak pada loyang yang sudah di beri alas baking paper",
+        "Lakukan hingga adonan habis",
+        "Oven di suhu 150 °c selama 40-50 menit atau hingga tercium aroma kue",
+        "Dinginkan 30- 40 menitan dan masukkan dalam wadah kemasan"
+      ],
+      "time": "2 Jam",
+      "category": "Makanan Penutup"
+    },
+    {
+      "name": "Bubur Sagu",
+      "image": "https://okutimurpos.bacakoran.co/upload/4c232bc63db341e434298e779257e4c6.jpg",
+      "note": [
+        "berasal dari wilayah Indonesia Timur terutama Maluku dan Papua dan merupakan salah satu makanan pokok masyarakat di daerah tersebut dengan Papeda sebagai bentuk bubur sagu yang paling dikenal di Papua. Sagu telah menjadi bagian dari budaya dan makanan turun-temurun di sana selama ribuan tahun."
+      ],
+      "ingredients": [
+        "200 gr tepung sagu atau bisa juga tepung tapioka",
+        "2 keping gula merah",
+        "300 ml Santan cair",
+        "500 ml air",
+        "2 lbr daun pandan",
+        "Sejumput garam"
+      ],
+      "steps": [
+        "Panaskan santan, beri daun pandan dan sejumput garam, sambil diaduk2 masak hingga mendidih (sisihkan)",
+        "Letakkan tepung tapioka pada wadah, lalu percikkan air hangat sedikit sedikit sambil diaduk2 menggunakan garpu atau whisk atau tangan langsung agar membentuk butiran2",
+        "Panaskan air, lalu masukkan gula merah dan daun pandan",
+        "aduk hingga gula merah larut",
+        "Masukkan tepung sagu sedikit2 sambil terus diaduk menggunakan whisk",
+        "masak hingga mengental seperti bubur dan meletup2",
+        "Sajikan bubur sagu dalam satu wadah dan beri santan secukupnya",
+        "Siap dihidangkan selagi hangat"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Penutup",
+      "id": "ad3b"
+    },
+    {
+      "name": "Kue Bagea",
+      "image": "https://storage.googleapis.com/bakingworld-web-production/uploads/media/content_banner/banner-bagea-1705050434431.jpg",
+      "note": [
+        "dari wilayah Indonesia bagian timur khususnya kepulauan Maluku dan menyebar ke daerah-daerah di Sulawesi (seperti Sulawesi Selatan dan Sulawesi Tenggara) dan Papua. Kue ini merupakan kue tradisional berbahan dasar tepung sagu dengan rasa rempah yang manis dan tekstur yang khas yaitu keras di luar namun melunak saat dikunyah."
+      ],
+      "ingredients": [
+        "500 gram tepung sagu (saya pake tep sagu aren)",
+        "150 gram gula pasir",
+        "100 gram kacang kenari atau kacang tanah",
+        "sangrai dan cincang kasar (saya pake kacang tanah)",
+        "50 gram margarin",
+        "lelehkan",
+        "1 sendok teh vanili bubuk",
+        "1 sdm bubuk kayu manis",
+        "1/2 sendok teh garam",
+        "1 butir telur",
+        "100 ml air hangat"
+      ],
+      "steps": [
+        "Pertama, siapkan wadah besar, lalu masukkan tepung sagu, gula pasir, vanili bubuk, garam, dan bubuk kayu manis",
+        "Aduk semua bahan hingga tercampur rata",
+        "Untuk hasil terbaik, pastikan semua bahan kering teraduk sempurna supaya rasa bagea sagu lebih merata",
+        "Tambahkan kacang kenari atau kacang tanah yang sudah disangrai dan dicincang kasar ke dalam campuran tepung",
+        "Aduk kembali hingga kacang tersebar merata dalam adonan",
+        "Kacang ini yang akan memberikan tekstur renyah saat kue sudah matang",
+        "Selanjutnya, tuangkan margarin yang sudah dilelehkan dan telur ke dalam adonan kering",
+        "Aduk hingga adonan mulai menyatu",
+        "Telur berfungsi sebagai pengikat adonan agar bagea sagu bisa dipadatkan",
+        "Tambahkan air hangat sedikit demi sedikit ke dalam adonan sambil diuleni hingga adonan bisa dipulung atau dibentuk",
+        "Jangan terlalu banyak menambahkan air, karena adonan bagea sagu tidak boleh terlalu basah",
+        "Bentuk adonan menjadi bulat² kecil atau panjang/lonjong atau sesuai selera",
+        "Umumnya, bagea sagu dibentuk bulat pipih atau bulat panjang",
+        "Letakkan adonan yang sudah dibentuk di atas loyang yang sudah diolesi sedikit margarin agar tidak lengket",
+        "Panaskan oven terlebih dahulu, pada suhu 150°C",
+        "Panggang adonan bagea selama kurang lebih 40 menit hingga matang (sesuaikan oven masing²)",
+        "Keluarkan dari oven dan biarkan dingin",
+        "Kue bagea siap menemani tea/coffee time"
+      ],
+      "time": "75 Menit",
+      "category": "Makanan Penutup",
+      "id": "e00f"
+    },
+    {
+      "name": "Arsik Ikan Mas",
+      "image": "https://buckets.sasa.co.id/v1/AUTH_Assets/Assets/p/website/medias/page_medias/resep_arsik_ikan_mas.jpg",
+      "note": [
+        "hidangan tradisional Suku Batak Toba yang kaya akan makna filosofis diwariskan secara turun-temurun dan disajikan pada acara-acara adat penting seperti pernikahan dan upacara daur hidup lainnya."
+      ],
+      "ingredients": [
+        "2 ekor Ikan Mas",
+        "200 gram Kacang Panjang",
+        "200 gram Bawang batak",
+        "250 gram Cabai merah keriting",
+        "utuh",
+        "2 batang Sereh",
+        "digeprek",
+        "2 ikat Kemangi",
+        "4 buah Kencong/kecombrang",
+        "5 buah Asam siala",
+        "digeprek",
+        "5 lembar Daun salam",
+        "5 buah Asam potong",
+        "3 buah Belimbing wuluh",
+        "150 gram Cabai rawit hijau utuh",
+        "secukupnya Lada bubuk",
+        "secukupnya Garam",
+        "secukupnya Kaldu ayam bubuk",
+        "1 kg Tomat",
+        "haluskan",
+        "Bahan Halus",
+        "1",
+        "5 ruas Kunyit",
+        "50 gram Andaliman",
+        "1 buah Bawang merah besar",
+        "5 siung Bawang putih",
+        "1/2 ruas Jahe",
+        "4 butir Kemiri",
+        "250 gram Cabai merah",
+        "100 gram Cabai rawit hijau"
+      ],
+      "steps": [
+        "Siapkan dan cuci bersih semua bahan yang diperlukan",
+        "Nb : Khusus untuk ikan mas",
+        "Dalam masakan khas Batak khususnya masak arsik, insang, isi perut ikan seperti hati dan jantung ikan (kecuali kotoran dan usus) serta sisik ikan mas tidak perlu dibuang",
+        "Ketiga bagian ini dicuci bersih untuk ikut serta dimasak",
+        "Dalam sisik ikan mas terdapat kandungan kolagen yang tinggi, sehingga bagus untuk kesehatan kulit",
+        "Potong dan iris bahan-bahan yang akan dimasak",
+        "Siapkan wajan",
+        "Masukkan bumbu halus, Aduk sebentar",
+        "Tunggu sampai bumbu harum dan tanak",
+        "Masukkan sereh, asam siala, kencong, asam potong dan daun salam",
+        "Aduk-aduk",
+        "Masukkan tomat yang sudah dihaluskan",
+        "Aduk-aduk",
+        "Masukkan ikan mas, potongan kacang panjang dan bawang batak",
+        "Tunggu sampai matang",
+        "Selama proses memasak arsik ikan mas",
+        "Usahakan jangan terlalu banyak mengaduk masakan",
+        "Sebab, hal ini bisa merusak atau menghancurkan ikan mas",
+        "Jika memang butuh mengaduk masakan, lakukan dengan pelan-pelan",
+        "Masukkan belimbing wuluh, kemangi, cabai merah keriting, cabai rawit hijau, garam, lada bubuk dan kaldu ayam bubuk",
+        "Aduk merata",
+        "Tunggu sampai air menyusut",
+        "Jika sudah matang, angkat dan sajikan"
+      ],
+      "time": "2 Jam",
+      "category": "Makanan Utama",
+      "id": "449e"
+    },
+    {
+      "id": "c9d6",
+      "name": "Rendang",
+      "image": "https://buckets.sasa.co.id/v1/AUTH_Assets/Assets/p/website/medias/page_medias/resep_rendang_padang.jpg",
+      "note": [
+        "berasal dari tanah Minangkabau Sumatera Barat. Bagi masyarakat Minang rendang sudah ada sejak dahulu dan telah menjadi masakan tradisi yang dihidangkan dalam berbagai acara adat dan hidangan keseharian."
+      ],
+      "ingredients": [
+        "1 kg daging sapi",
+        "2500 ml santan kental dari 3 butir kelapa",
+        "3 batang sereh",
+        "geprek",
+        "1 lembar daun kunyit",
+        "sobek2",
+        "5 lembar daun salam",
+        "Bumbu halus",
+        "250 gr cabe merah kerting + cabe rawit",
+        "150 gr bawang merah",
+        "6 siung bawang putih",
+        "1 sdt jinten",
+        "1 sdt adas",
+        "1 butir pala",
+        "5 butir cengkeh",
+        "3 butir kemiri",
+        "sangrai",
+        "3 sdm ketumbar",
+        "1 sdt merica",
+        "3 jempol jahe",
+        "2 jempol kunyit",
+        "3 jempol lengkuas",
+        "Secukupnya garam"
+      ],
+      "steps": [
+        "Masukkan daging dan bumbu halus ke dalam wajan, tambahkan serai, daun kunyit, daun salam dan garam lalu aduk rata",
+        "Diamkan sekitar 15 menit (posisi kompor mati)",
+        "Setelah 15 menit nyalakan api kompor",
+        "Daging akan mengeluarkan air (aduk sesekali), semakin lama airnya akan semakin banyak",
+        "Terus memasak hingga air menyusut",
+        "Setelah air menyusut tuang santan, kecilkan api, masak sambil terus diaduk sampai daging empuk dan santan menyusut"
+      ],
+      "time": "2 Jam 30 Menit",
+      "category": "Makanan Utama"
+    },
+    {
+      "id": "b455",
+      "name": "Gulai Ikan Patin",
+      "image": "https://asset.kompas.com/crops/qrXWYfMnHKW8AwoE5qID4qp19-k=/209x60:931x541/1200x800/data/photo/2019/06/07/2823890915.jpeg",
+      "note": [
+        "berakar dari tradisi kuliner Melayu khususnya di Riau dan Jambi yang memanfaatkan ikan patin yang melimpah di sungai-sungai setempat. Dibuat dengan campuran rempah-rempah kaya seperti kunyit lengkuas dan serai serta santan hidangan ini menjadi ikon kuliner daerah dengan cita rasa gurih yang khas."
+      ],
+      "ingredients": [
+        "Bahan-Bahan",
+        "1 ekor patin ukuran besar pot.4",
+        "500-700 ml air",
+        "2-3 sdm air asam jawa",
+        "65 ml santan",
+        "Bahan Bumbu Halus",
+        "10 bawang merah",
+        "7 bawang putih",
+        "4 butir kemiri",
+        "1 ruas jari kunyit",
+        "1 ruas jahe",
+        "5 cabai teropong merah",
+        "Bahan Cemplung",
+        "3 cabai merah keriting iris",
+        "3 cabai hijau keriting iris",
+        "7 cabai rawit utuh",
+        "1 buah tomat iris",
+        "Aromatik",
+        "3 lembar daun salam",
+        "3 lembar daun jeruk",
+        "2 batang serai geprek",
+        "1 iris laos geprek",
+        "Seosening",
+        "1 sdt garam",
+        "1 sdt penyedap",
+        "1/2 sdt lada bubuk",
+        "1 sdt gula pasir"
+      ],
+      "steps": [
+        "Buang kotoran ikan patin dan cuci bersih lalu potong dan goreng",
+        "Panaskan sedikit minyak lalu tumis bumbu halus dan aromatik sampai harum tambahkan air dan santan",
+        "Setelah itu tambahkan seosening masukkan ikan patin masak dengan api kecil sampai kuah sedikit menyusut",
+        "masukkan bahan cemplung sajikan"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Utama"
+    },
+    {
+      "id": "20af",
+      "name": "Sup Ikan Batam",
+      "image": "https://asset.kompas.com/crops/Kt8C2k6Ukyr8smOQ_xfuUHLsL88=/3x0:700x465/1200x800/data/photo/2024/09/01/66d460e47a22e.jpeg",
+      "note": [
+        "Sop Ikan Batam tidak dapat dilepaskan dari kehidupan masyarakat pesisir Batam yang hidup bersentuhan langsung dengan laut. Ikan telah menjadi sumber protein utama bagi penduduk pulau ini selama berabad-abad. Tradisi memasak ikan dalam bentuk sop juga telah menjadi bagian tak terpisahkan dari budaya kuliner Batam."
+      ],
+      "ingredients": [
+        "1 kg Ikan Gurame (resep asli",
+        "Ikan Dori) iris",
+        "2 sdm air lemon",
+        "1 btr putih telur",
+        "1 sdt garam",
+        "1/2 sdt merica",
+        "2 sdm tepung sagu/tapioka",
+        "2 sdm ebi sangrai",
+        "5 siung bawang putih",
+        "goreng",
+        "1 ltr air",
+        "1 sdt garam",
+        "1 sdt kaldu jamur",
+        "1/2 sdt merica",
+        "1 sdm gula pasir",
+        "Secukupnya Garlic Oil",
+        "secukupnya Daun selada",
+        "Secukupnya Kecap asin",
+        "Secukupnya Cabe Rawit"
+      ],
+      "steps": [
+        "Siapkan bahan-bahan yang diperlukan",
+        "Rajang Bawang Putih dan goreng",
+        "Lumuri Ikan dgn bumbu marinasi, diamkan kira-kira 15 menit",
+        "Uleg ebi dan bawang putih goreng hingga halus",
+        "Kita buat kuah Ikan: Panaskan sedikit minyak, tumis ebi & Bawang Putih yang sudah digoreng dan dihaluskan hingga harum",
+        "Tambahkan air & semua bumbu2",
+        "Setelah kuah hampir mendidih,masukkan Ikan",
+        "Masak hingga Ikan matang",
+        "Siap disajikan"
+      ],
+      "time": "30 Menit",
+      "category": "Makanan Utama"
     }
   ]
 }
